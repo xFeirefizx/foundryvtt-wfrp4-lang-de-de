@@ -1,28 +1,28 @@
 {
-  "name": "Localisation",
+  "name": "Hit Location",
   "die": "1d100",
   "rows": [{
-    "description": "Tête",
+    "description": "Head",
     "result": "head",
     "range": [1, 9]
   }, {
-    "description": "Bras Gauche",
+    "description": "Left Arm",
     "result": "lArm",
     "range": [10, 24]
   }, {
-    "description": "Bras Droit",
+    "description": "Right Arm",
     "result": "rArm",
     "range": [25, 44]
   }, {
-    "description": "Corps",
+    "description": "Body",
     "result": "body",
     "range": [45, 79]
   }, {
-    "description": "Jambe Gauche",
+    "description": "Left Leg",
     "result": "lLeg",
     "range": [80, 89]
   }, {
-    "description": "Jambe Droite",
+    "description": "Right Leg",
     "result": "rLeg",
     "range": [90, 100]
   }]

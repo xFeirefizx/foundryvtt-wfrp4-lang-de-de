@@ -1,85 +1,85 @@
 {
-  "name": "Corruption physique",
+  "name": "Physical Mutation",
   "die": "1d100",
   "rows": [{
-    "name": "Membres d'animaux",
-    "description": "+1 Mouvement",
+    "name": "Animalistic Legs",
+    "description": "+1 Movement",
     "range": [1, 5]
   }, {
     "name": "Corpulent",
-    "description": "-1 Mouvement, +5 Force, +5 Endurance",
+    "description": "-1 Movement, +5 Strength, +5 Toughness",
     "range": [6, 10]
   }, {
-    "name": "Doigts distendus",
-    "description": "+10 Dextérité",
+    "name": "Distended Digits",
+    "description": "+10 Dexterity",
     "range": [11, 15]
   }, {
-    "name": "Emacié",
-    "description": "-10 Force, +5 Agilité",
+    "name": "Emaciated",
+    "description": "-10 Strength, +5 Agility",
     "range": [16, 20]
   }, {
-    "name": "OEil énorme",
-    "description": "+10 aux Tests de Perception impliquant la vue",
+    "name": "Enormous Eye",
+    "description": "+10 Perception Tests involving Sight",
     "range": [21, 25]
   }, {
-    "name": "Articulation supp. aux jambes",
-    "description": "+5 Agilité",
+    "name": "Extra Leg Joints",
+    "description": "+5 Agility",
     "range": [26, 30]
   }, {
-    "name": "Bouche supplémentaire",
-    "description": "Effectuer un lancer sur le Tableau des Localisations afin de déterminer où cette bouche apparaît",
+    "name": "Extra Mouth",
+    "description": "Roll on the Hit Location table to see where",
     "range": [31, 35]
   }, {
-    "name": "Tentacule épaissee",
-    "description": "Vous gagnez le Trait de Créature Tentacule. Voir page 343",
+    "name": "Fleshy Tentacle",
+    "description": "Gain the Tentacles Creature Trait",
     "range": [36, 40]
   }, {
-    "name": "Peau brillante",
-    "description": "Produit une lumière équivalente à celle d'une bougie.",
+    "name": "Glowing Skin",
+    "description": "Effective light of a candle",
     "range": [41, 45]
   }, {
-    "name": "Beauté surnaturelle",
-    "description": "+ 10 Sociabilité. Vous ne gardez jamais de cicatrice.",
+    "name": "Inhuman Beauty",
+    "description": "+10 Fellowship, you do not scar",
     "range": [46, 50]
   }, {
-    "name": "Visage inversé",
-    "description": "-20 aux Tests de Sociabilité",
+    "name": "Inverted Eye",
+    "description": "-20 to all Fellowship Tests",
     "range": [51, 55]
   }, {
-    "name": "Peau d'acier",
-    "description": "+2 PA à toutes les Localisations, -10 Agilité",
+    "name": "Iron Skin",
+    "description": "+2 Armour Points to all locations, -10 Agility",
     "range": [56, 60]
   }, {
-    "name": "Langue pendante",
-    "description": "-10 à tous les Tests de Langue lorsque vous parlez.",
+    "name": "Lolling Tongue",
+    "description": "-10 to all Language Tests when speaking",
     "range": [61, 65]
   }, {
-    "name": "Plumes éparses",
-    "description": "Effectuez deux lancers sur le Tableau des Localisations pour déterminer où ces plumes apparaissent.",
+    "name": "Patchy Feathers",
+    "description": "Roll on the Hit Location table twice to see where",
     "range": [66, 70]
   }, {
-    "name": "Court sur pattes",
-    "description": "-1 Mouvement",
+    "name": "Short Legs",
+    "description": "-1 Movement",
     "range": [71, 75]
   }, {
-    "name": "Ecailles épineuses",
-    "description": "+1 PA à toutes les Localisationss",
+    "name": "Thorny Scales",
+    "description": "+1 Armour Points to all locations",
     "range": [76, 80]
   }, {
-    "name": "Cornes asymétriques",
-    "description": "+ 1 PA à la Tête. Compte comme une Arme de Créature dont le nombre de Dégâts est égal à votre Bonus de Force (voir page 338)",
+    "name": "Uneven Horns",
+    "description": "+1 Armour Points to the Head; counts as a Creature Weapon of Damage equal to your SB",
     "range": [81, 85]
   }, {
-    "name": "Suintement de pus",
-    "description": "Effectuez un lancer sur le Tableau des Localisations pour déterminer l'origine du suintement",
+    "name": "Weeping Pus",
+    "description": "Roll on the Hit Location to see from where",
     "range": [86, 90]
   }, {
-    "name": "Groin poilu",
-    "description": "+10 Pistage",
+    "name": "Whiskered Snout",
+    "description": "+10 Track",
     "range": [91, 95]
   }, {
-    "name": "Choix du M]",
-    "description": "Le MJ choisit une mutation ou un Trait de Créature. Voir page 340.",
+    "name": "GM's Choice",
+    "description": "The GM chooses a Mutation or Creature Trait",
     "range": [96, 100]
   }]
 }

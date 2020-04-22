@@ -2,128 +2,128 @@
   "name": "Events Table",
   "die": "1d100",
   "rows": [{
-    "name": "Allié inculpé",
-    "description": "L'un de vos alliés (au choix du MJ) est impliqué dans un horrible crime. Un personnage avec une Licence de la Guilde de Droit peut dépenser une Activité pour libérer l'allié en réussissant un <b>Test de Savoir (Loi) Accessible (+20)</b>. A défaut, trois Activités dépensées par le groupe le disculperont (ou, s'il est coupable, lui fourniront un alibi). Si l'allié est libéré, gagnez une Faveur Majeure (voir l'Activité <i>Faites-moi une Faveur</i> page 198) pour une utilisation future. Dans le cas contraire, l'allié sera pendu!",
+    "name": "Accused Ally",
+    "description": "One of your allies (GM's choice) is implicated in a terrible crime. A character with a Law Guild Licence can spend an Endeavour to free the ally with a successful Average (+20) Lore (Law) test. Otherwise, 3 Endeavours spent by the party will exonerate their ally (or, if guilty, manufacture an alibi). If the ally is freed, gain a Major Favour (see Do Me a Favour Endeavour on page 198) for future use. If not, their ally hangs!",
     "range": [1, 3]
   }, {
-    "name": "Enchères ésotériques",
-    "description": "Les biens d'un voisin récemment décédé sont mis aux enchères, notamment un vieux livre poussiéreux d'origine inconnue. Si vous êtes capable de payer le prix demandé de 10 CO, le livre est à vous ! Au-delà de tout autre avantage que le livre peut vous apporter, décidé par le MJ, les Personnages Lettrés qui tentent une Activité <i>Recherche de Savoir</i> gagnent +20 à leur Test.",
+    "name": "Arcane Auction",
+    "description": "The belongings of a recently deceased neighbour are auctioned, including a dusty, old book of unknown origin. If you are able to pay the 10 GC asking price, the book is yours! Beyond any other advantage the book may bring as determined by the GM, any Academic characters attempting the Research Lore Endeavour gains +20 on the Test.",
     "range": [4, 6]
   }, {
-    "name": "Trahison!",
-    "description": "Un ami, un parent ou un allié se retourne contre vous, et les répercussions auront une influence sur votre prochaine aventure. Si vous n'avez pas d'amis, de famille ou d'alliés, votre temps libre est alors merveilleusement calme, bien qu'un peu ennuyeux.",
+    "name": "Betrayed!",
+    "description": "A friend, family member, or ally turns on you, the ramifications of which will impact your next adventure. If you have no friends, family, or allies, your time between adventures is blissfully uneventful though somewhat dull.",
     "range": [7, 10]
   }, {
-    "name": "Imprévu",
-    "description": "Un palefrenier paresseux n'a pas fermé la porte de l'écurie, et votre monture s'est enfuie ! Si vous réussissez un <b>Test de Dressage (Cheval) Accessible (+20)</b>, votre animal bien entraîné revient vers la main qui le nourrit. Si vous échouez, votre destrier est parti, et il est peu probable de le revoir un jour. Si vous n'avez pas de monture, vous souffrez d'une ampoule douloureuse à l'un de vos pieds.",
+    "name": "Bolt from the Blue",
+    "description": "A lazy ostler didn't lock the stable door, and your mount bolted! If you succeed at an Average (+20) Animal Training (Horse) Test, your well-trained beast returns to the hand that feeds it. If you fail, your steed is gone, unlikely to be ever seen again. If you don't have a mount, you have developed a painful new blister on your foot.",
     "range": [11, 14]
   }, {
-    "name": "Eh! Tu as renversé ma pinte!",
-    "description": "Un petit différent dans les environs a tourné au conflit - le MJ décide qui vous avez offensé et comment. Cette personne ne laissera pas passer une occasion de se venger.",
+    "name": "Oi! You spilled my pint!",
+    "description": "A petty argument in the local area has developed into a feud - the GM decides who you offended and how. This person will not pass up an opportunity for petty revenge, probably during the next adventure...",
     "range": [15, 18]
   }, {
-    "name": "Répression du Crime",
-    "description": "La Garde veut une augmentation de salaire ! Tous les 'coups' sont en suspens jusqu'à ce que la tension redescende. Les Voleurs ne peuvent obtenir aucune liquidité avec l'Activité <i>Revenus</i>, et si les Voleurs entreprennent l'Activité <i>Opérations Bancaires</i>, ils ne peuvent choisir qu'un dépôt à <i>Haut Risque</i>, puisque les banques officielles ne voudront pas gérer de l'argent sale.",
+    "name": "Crime Crackdown",
+    "description": "The Watch is cracking down on crime hard. Rogues can get no funds from the Income Endeavour, and if Rogues undertake a Banking Endeavour, they may only select a High-risk deposit, as legitimate banking houses won't handle dirty money.",
     "range": [19, 21]
   }, {
-    "name": "Le Prévôt arrive",
-    "description": "Le collecteur d'impôts (avec plusieurs soldats pour escorte) sillonne votre communauté locale lors d'une visite inattendue. Tous les Personnages perdent 30% de leur argent avant de pouvoir en dépenser dans les Activités.",
+    "name": "The Exciseman Cometh",
+    "description": "An unexpected visit by the tax collector (with several soldiers in tow) sweeps through your local settlement. All characters lose 30% of their funds before any can be spent on Endeavours.",
     "range": [22, 25]
   }, {
-    "name": "Fausse Monnaie",
-    "description": "Au grand dam des marchands, un trafic de pièces contrefaites sévit dans la région où habitent les Personnages. Un cinquième de toutes les pièces est concerné. Les Personnages qui entreprennent l'Activité <i>Opérations Bancaires</i> perdront 20% de l'argent placé, et ceux entreprenant l'Activité <i>Revenus</i> réduiront de la même manière l'argent gagné de 20%.",
+    "name": "False Silver",
+    "description": "To the horror of the merchants, a run of counterfeit coins plagues the characters' locale. A fifth of all coins are affected. Characters who undertake the Banking Endeavour will lose 20% of money banked, and characters undertaking the Income Endeavour similarly reduce any money earned by 20%.",
     "range": [26, 29]
   }, {
-    "name": "Profits abondants",
-    "description": "Les affaires sont particulièrement bonnes pour les gens impliqués dans le commerce fluvial. Les Riverains gagnent 50% de plus pour toute Activité <i>Revenus</i> effectuée lors de la prochaine série d'Activités.",
+    "name": "Flowing Profit",
+    "description": "Business is particularly good for folk involved in river trade. All Riverfolk make an additional 50% from any Income Endeavour pursued during the next batch of Endeavours.",
     "range": [30, 33]
   }, {
-    "name": "Un homme averti en vaut deux",
-    "description": "Vous avez reçu un présage cryptique en rêve, d'un mystique strigany ou d'un Magister céleste rencontré dans la rue. Lors de votre prochaine aventure, votre montant maximum de Points de Chance augmente de 1.",
+    "name": "Forewarned is Forearmed",
+    "description": "You are given a cryptic omen by a dream, Strigany mystic, or Celestial Magister you encounter on the street. During your next adventure, your maximum Fortune points are increased by 1.",
     "range": [34, 36]
   }, {
-    "name": "Festivités",
-    "description": "Une fête est annoncée ! Décidez de la nature de l'événement avec le MJ. Il peut s'agir d'un mariage local, d'une récolte généreuse ou d'une exécution publique ! Vous êtes entraîné dans l'événement (et ses conséquences) et perdez une Activité.",
+    "name": "Festivities",
+    "description": "A celebration is called! Decide the nature of the event with the GM. Possibilities include a local wedding, a bountiful harvest, or a public execution! You are caught up in the event (and its aftermath) and lose an Endeavour.",
     "range": [37, 40]
   }, {
-    "name": "Météo défavorable",
-    "description": "Des conditions météorologiques particulièrement détestables sont annoncées. Pour la prochaine aventure, tous les Tests de Compétences sociales subissent une pénalité de -10 (tout le monde est de mauvaise humeur) et le prix des aliments augmente de 20% (en raison de la dégradation des denrées entreposées).",
+    "name": "Inclement Weather",
+    "description": "Particularly bad weather arrives. For the next adventure, all social Skill Tests suffer a penalty of -10 (everyone is in a foul mood) and food prices increase by 20% (due to spoiling of stored provender).",
     "range": [41, 44]
   }, {
-    "name": "Météo radieuse",
-    "description": "Les magnifiques conditions météorologiques vous inspirent et vous réjouissent. Vous pouvez ajouter une nouvelle Ambition à Court terme. Une fois achevée, vous ne la remplacez pas par une nouvelle.",
+    "name": "Glorious Weather",
+    "description": "Beautiful conditions inspire you and give you cheer. You can add a new Short-term Ambition. When it's concluded, you do not replace it with a new one.",
     "range": [45, 48]
   }, {
-    "name": "Mauvaise récolte",
-    "description": "La nourriture devient extrêmement rare et beaucoup de gens en souffrent terriblement. Les Personnages Ruraux ne peuvent pas entreprendre l'Activité <i>Revenus</i>, et le prix des aliments est doublé dans la région pour la durée de la prochaine aventure.",
+    "name": "Local Crop Failure",
+    "description": "Food becomes exceedingly scarce and many folk suffer terribly. Characters from the Peasant class cannot undertake the Income Endeavour, and food prices are doubled in the area for the duration of the next adventure.",
     "range": [49, 52]
   }, {
-    "name": "Maladie pernicieuse",
-    "description": "Le Flux Sanglant sévit en ville. Faites un <b>Test d'Endurance Facile (+40)</b>. Sur un succès, la maladie vous épargne. Sur un échec, vous allez passer pas mal de temps avec la Guilde des Purificateurs. Contractez le Flux Sanglant (voir page 187).",
+    "name": "Malicious Malady",
+    "description": "The Bloody Flux sweeps through town. Make an Easy (+40) Toughness Test. On a success, the Flux passes by. On a failure, you and the Washers Guild are soon to know each other very well. Contract the Bloody Flux see page 186.",
     "range": [53, 56]
   }, {
-    "name": "Complications monstrueuses",
-    "description": "Un monstre (choisi par le MJ dans le <b>Chapitre 12 : Bestiaire</b> page 310) sème la panique dans la région. L'Activité <i>Revenus</i> ne founit aucun fonds jusqu'à ce que le problème de la bête soit réglé. Les Personnages peuvent décider chacun de sacrifier une Activité pour régler la menace (et cette rencontre doit être interprétée en jeu). S'ils réussissent, ils gagnent une Activité <i>Revenus</i> gratuite pour représenter leurs récompenses individuelles, et une fête est donnée en leur honneur S'ils échouent, ou si le groupe préfère ignorer la créature, elle s'en ira ou sera tuée par un rival local.",
+    "name": "Montrous Complications",
+    "description": "A monster (chosen by the GM from Chapter 12: Bestiary) is causing panic among the locals. The Income Endeavour provides no funds until the beast is dealt with. The characters can choose to each sacrifice one Endeavour to deal with the menace (and this encounter should be roleplayed). If you succeed, you gain a free Income Endeavour to represent their individual rewards, and a feast is held in their honour. If not, or if the party chooses to ignore the creature, it will move on or be killed by a local rival.",
     "range": [57, 60]
   }, {
-    "name": "L'Etreinte de Morr",
-    "description": "L'un des parents, amis ou alliés du Personnage meurt. Il pourrait s'agir de causes naturelles, d'un accident ou du début de quelque chose de plus sinistre...",
+    "name": "Morr's Embrace",
+    "description": "One of the character's relatives, friends, or allies dies. It could be of natural causes, an accident, or the beginning of something sinister...",
     "range": [61, 63]
   }, {
-    "name": "Nouvelle lune",
-    "description": "Les nuits sont particulièrement noires. Les Personnages Voleurs qui entreprennent l'Activité <i>Revenus</i> reçoivent un bonus de +20% sur les sommes gagnées.",
+    "name": "New Moon",
+    "description": "The nights are particularly dark. All Rogue characters undertaking the Income Endeavour receive a +20% bonus to their monies earned.",
     "range": [64, 65]
   }, {
-    "name": "Vieilles dettes",
-    "description": "Vous avez fait appel à une <i>Faveur Importante</i> ou <i>Majeure</i>. Les tenants et aboutissants de la faveur feront partie de vore prochaine Aventure et vous perdez une Activité en préparation de ce qui va se produire.",
+    "name": "Old Debts",
+    "description": "You have a Major or Significant Favour called in. Dealing with the favour will be part of your next adventure and you lose one Endeavour in preparation for what is to come.",
     "range": [66, 67]
   }, {
-    "name": "Opportunité de passage",
-    "description": "Des soldats de passage, de riches marchands ou des nobles en villégiature traversent la région, et des Personnages prêts à leur lécher les bottes en récupèrent les bénéfices. Les Personnages Citadins et Ruraux gagnent +50% d'argent avec l'Activité <i>Revenus</i>.",
+    "name": "Opportunity Saunters Through",
+    "description": "Passing soldiers, well-heeled merchants, or vacationing nobles pass through the area, and characters willing to suck up reap the benefits. Burgher and Peasant Class characters gain +50% money from the Income Endeavour.",
     "range": [68, 69]
   }, {
-    "name": "Paix et sérénité",
-    "description": "Le genre de moments qui vous rappelle ce qu'est la vie : un sommeil paisible après un bon fromage. Vous serez en pleine forme au début de vore prochaine aventure.",
+    "name": "Peace and Quiet",
+    "description": "It's times like these that remind you what life is all about: good sleep and fine cheese. Be smugly content at the start of your next adventure.",
     "range": [70, 71]
   }, {
-    "name": "Colporteur",
-    "description": "Un colporteur ratatiné ayant beaucoup voyage et friand de ragots arrive. Pour le prix d'un pichet de bière - 3 SC - vous recevez un bonus de +10 pour toutes les Activités <i>Dernières nouvelles</i> que vous tentez.",
+    "name": "Pedlar",
+    "description": "A wizened, well-travelled pedlar who likes a gossip passes through. For the price of a flagon of ale — 3d — you receive a +10 bonus to any Latest News Endeavours you attempt.",
     "range": [72, 73]
   }, {
-    "name": "Animal domestique malade",
-    "description": "L'un de vos animaux tombe malade. Faites un <b>Test de Soin aux animaux Intermédiaire (+0)</b>. Sur un succès, votre animal s'en sort. Sinon, la malheureuse créature meurt. Si vous n'avez pas d'animal, vous êtes tourmenté par le mauvais présage d'un nuage menaçant.",
+    "name": "Pestilental Pet",
+    "description": "One of your animals falls ill; make a Challenging (+0) Animal Care Test. If successful, your beast pulls through. If not, the unfortunate creature dies. If you have no animals, you are troubled by ill omens of the GM's creation.",
     "range": [74, 76]
   }, {
-    "name": "Mise à sac",
-    "description": "Avant que vous ne puissiez entreprendre une Activité <i>Opérations bancaires</i>, votre planque est dévalisée et tout votre argent a disparu. Si vos économies s'élèvent à moins d'1 CO, les voleurs ont aussi pris votre équipement le plus précieux.",
+    "name": "Ransacked",
+    "description": "Before you can undertake a Banking Endeavour, your stash is raided, and all your money is taken. If your money amounts to less than 1 GC, the thieves also steal your most highlyvalued trapping.",
     "range": [77, 79]
   }, {
-    "name": "Emeutes",
-    "description": "Les gens du peuple sont furieux contre les grands et les puissants. Les Personnages Courtisans ne peuvent entreprendre l'Activité <i>Revenus</i>, car quel que soit le nombre de gardes du corps qu'ils emploient, il est risqué pour eux de sortir de chez eux pour s'occuper de leurs affaires. De plus, tous les dépôts des banques réputées (voir l'Activité <i>Opérations bancaires</i> ci-dessous) doivent vérifier immédiatement si la violence et le désordre ont causé la faillite de leur banque. Cependant, les Personnages qui tentent une Activité <i>Semer la dissension</i> reçoivent un bonus de +10 à tous les Tests associés.",
+    "name": "Riots",
+    "description": "The common folk are furious at the high and mighty! Characters of the Courtier Class cannot take the Income Endeavour as, no matter how many bodyguards they hire, it isn't even vaguely safe for them to be abroad on business. Further, any deposits at reputable banks (see page 196) must immediately check to see if the violence and disruption has caused their bank to go out of business. However, players attempting a Foment Dissent Endeavour receive +10 bonus to all related Tests.",
     "range": [80, 82]
   }, {
-    "name": "Kleptomane",
-    "description": "Votre sacoche est entaillée  Vous perdez la moitié de l'argent avec lequel vous avez terminé votre dernière aventure.",
+    "name": "Sticky Fingers",
+    "description": "Your purse is cut! You lose half of the money you ended the last adventure with.",
     "range": [83, 85]
   }, {
-    "name": "Soupçonné d'hérésie",
-    "description": "Vous tombez sur un Répurgateur qui vous soupçonne d'avoir comploté avec des mutants, des cultistes ou pis encore, durant vos soi-disant 'aventures'. Il faut un <b>Test de Charme Très Difficile (-30)</b> pour le convaincre de votre innocence. Sinon, cela signifie que vous avez gagné une némésis qui vous causera, c'est sûr, des soucis dans le futur...",
+    "name": "Suspicion of Heresy",
+    "description": "You fall foul of a Witch Hunter who suspects you have been consorting with Mutants, Cultists, or worse on your socalled 'adventures'. It takes a Very Hard (-30) Charm Test to convince the hunter you are innocent. Failure to do this means you have earned an implacable nemesis who is certain to cause trouble in the future...",
     "range": [86, 88]
   }, {
-    "name": "Suspect",
-    "description": "Les déplacements irréguliers et la soudaine richesse du groupe ont attiré les soupçons. Tous les Personnages doivent renoncer à une Activité pour faire profil bas ou prouver leur innocence. Les Personnages Roublards ne peuvent pas utiliser l'Activité <i>Revenus</i> jusqu'à leur prochaine aventure.",
+    "name": "Under Suspicion",
+    "description": "The party's irregular movements and sudden wealth has drawn suspicion. All characters must forfeit one Endeavour laying low or proving their innocence. Characters in the Rogue class cannot use the Income Endeavour until after their next adventure.",
     "range": [89, 91]
   }, {
-    "name": "Rien à signaler",
-    "description": "Peu de choses se passent, vous commencez la prochaine aventure avec un appêtit pour le risque inspiré par l'ennui.",
+    "name": "Uneventful",
+    "description": "Little of interest occurs, perhaps leaving you with a boredominspired appetite for taking risks!",
     "range": [92, 94]
   }, {
-    "name": "Considération inattendue",
-    "description": "Quelqu'un que vous avez aidé par le passé a l'opportunité de vous rendre la pareille. La nature précise du dédommagement devrait être à l'aune de vos actes passés et de la part des PNJ que vous avez soutenus auparavant pendant le jeu. Les marques de reconnaissance peuvent varier d'un simple objet de grande qualité à une bourse d'argent (disponible au début de la prochaine aventure). Evidemment, tout ce qui brille n'est pas or, et tous les cadeaux ne sont pas ce qu'ils semblent être...",
+    "name": "Unexpected Esteem",
+    "description": "Someone you helped in the past has a chance to repay your efforts. The precise nature of the reward should be appropriate to your past deeds, and the NPCs you have assisted during play or in your back story. The tokens of gratitude may vary from a single high-quality item, to a purse of silver (which will be available at the start of the next adventure). Of course, all that glitters is not gold, and not all gifts are what they appear...",
     "range": [95, 97]
   }, {
-    "name": "Mercenaires particuliers",
-    "description": "Un ou plusieurs mercenaires peu communs se présentent dans un village voisin à la recherche de travail : un Duelliste tiléen de grande renommée, les soi-disant Hommes Oiseaux de Catrazza, des ogres sans emploi sous le commandement d'un capitaine Halfling, ou autres groupes douteux. Les mercenaires entraîneront volontiers n'importe quel Personnage dans n'importe quelle Compétence ou n'importe quel Talent martial, avec une réduction de 20% des coûts, si les Personnages entreprennent une Activité <i>Entraînement</i> ou <i>Apprentissage particulier</i>. De plus, les Personnages entreprenant une Activité <i>Entraînement au Combat</i> gagnent un bonus de +20% à tout Test adapté.",
+    "name": "Unusual Mercenaries",
+    "description": "One or more rare mercenaries turn up in a nearby settlement looking for work: a Tilean Duellist of great repute, the socalled Birdmen of Catrazza, unemployed Ogres under the command of a Halfling captain, or other unlikely bands. The mercenaries will gladly train any character in any martial Skills or Talents, at a 20% reduction in costs, should the characters undertake a Training or Unusual Learning Endeavour. Additionally, any characters undertaking a Combat Training Endeavour gain a +20 bonus to any relevant Test.",
     "range": [98, 100]
   }]
 }

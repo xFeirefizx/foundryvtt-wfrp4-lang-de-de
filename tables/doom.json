@@ -1,305 +1,305 @@
 {
-  "name": "Destinée",
+  "name": "Dooming",
   "die": "1d100",
   "rows": [{
-    "description": "Ta fin sera gluante.\r",
+    "description": "Thy end shalt be a sticky one. \r",
     "range": [1, 1]
   }, {
-    "description": "L'eau salée est un poison dans ta gorge.\r",
+    "description": "Briny waters are poison to thy tongue. \r",
     "range": [2, 2]
   }, {
-    "description": "Quand tu seras seul et abandonné, Morr sera ton ami. \r",
+    "description": "When abandoned and alone, Morr shalt befriend thee. \r",
     "range": [3, 3]
   }, {
-    "description": "Les animaux des champs te guettent.\r",
+    "description": "Beasts of the field have eyes for thee. \r",
     "range": [4, 4]
   }, {
-    "description": "Ton destin est lié aux rouages de l'Étoile du Sorcier. \r",
+    "description": "Workings of the Witchling Star are thy doom. \r",
     "range": [5, 5]
   }, {
-    "description": "Une lame retenue entraînera une mort brutale. \r",
+    "description": "A stalled blade bringeth a sharp end. \r",
     "range": [6, 6]
   }, {
-    "description": "La parole écrite épellera ton destin. \r",
+    "description": "The written word shall spell thy doom. \r",
     "range": [7, 7]
   }, {
-    "description": "L'esprit broyé, ton corps cédera. \r",
+    "description": "Thy body shalt break after thy spirit is crushed. \r",
     "range": [8, 8]
   }, {
-    "description": "La curiosité ne te sied point, seule l'ignorance te protège.\r",
+    "description": "Be not curious, only in ignorance art thou safe. \r",
     "range": [9, 9]
   }, {
-    "description": "Le souffle court accompagne tes derniers instants. \r",
+    "description": "Lack of breath fills thy last moments. \r",
     "range": [10, 10]
   }, {
-    "description": "Ne noue pas le ruban, la plume ne porte pas ; oui, le paon est ton ennemi.\r",
+    "description": "Tie not the ribbon, nor the feather wear; yea, the peacock is thine enemy. \r",
     "range": [11, 11]
   }, {
-    "description": "Ne t'inspire pas de Gnuthus, car ton maître compte tes jours. \r",
+    "description": "Be not like Gnuthus, for thy master counts thy days. \r",
     "range": [12, 12]
   }, {
-    "description": "Tu es lié au nombre trois ! \r",
+    "description": "Three is thy number! \r",
     "range": [13, 13]
   }, {
-    "description": "Une bête de cuivre rugit pour toi !\r",
+    "description": "A beast of brass bellows for thee! \r",
     "range": [14, 14]
   }, {
-    "description": "La main glacée d'Ulric te guidera vers Morr. \r",
+    "description": "Ulric�s cold hand shall lead thee to Morr. \r",
     "range": [15, 15]
   }, {
-    "description": "Gare au sabot fendu, car il est ton bourreau. \r",
+    "description": "Watch for the cloven hoof, it is thine enemy. \r",
     "range": [16, 16]
   }, {
-    "description": "Ne touche pas aux tripes ni aux boyaux carnés. \r",
+    "description": "Eat neither the chitterlings nor the meat with tubes. \r",
     "range": [17, 17]
   }, {
-    "description": "Comme tu as commencé, tu finiras. \r",
+    "description": "As thee began, so shalt thou end. \r",
     "range": [18, 18]
   }, {
-    "description": "Comme le soleil se lève, tu tomberas. \r",
+    "description": "As the sun doth rise, thou shalt fall. \r",
     "range": [19, 19]
   }, {
-    "description": "Ton destin te connaît déjà, mais il ne le sait pas. \r",
+    "description": "Thy doom already knows thee, though knows it not. \r",
     "range": [20, 20]
   }, {
-    "description": "Un étranger t'apportera plus qu'un présent. \r",
+    "description": "A stranger shalt bring thee more than a gift. \r",
     "range": [21, 21]
   }, {
-    "description": "Gare au jeune, à l'enfant, et même au bébé, en vérité. \r",
+    "description": "Beware the young, the child, yea, even the babe. \r",
     "range": [22, 22]
   }, {
-    "description": "Surveille Mammit comme Mummit, car ils veulent tous deux ta perte. \r",
+    "description": "Take heed of Mammit and Mummit, for both seek to lay thee low. \r",
     "range": [23, 23]
   }, {
-    "description": "Gare à la bourse, à la besace et à la sacoche de velours. \r",
+    "description": "Beware the purse, the sack, the velvet bag. \r",
     "range": [24, 24]
   }, {
-    "description": "Le corbeau répond certes à l'appel de Verena, mais Sa balance est lestée.\r",
+    "description": "The raven answers to Verena�s call, yea, but Her scales are weighted. \r",
     "range": [25, 25]
   }, {
-    "description": "Les plus infimes des enfants de Taal se repaîtront de tes entrailles. \r",
+    "description": "The tiniest of Taal�s children shalt feast upon thy gut. \r",
     "range": [26, 26]
   }, {
-    "description": "Le trait du dessinateur sera trompeur. \r",
+    "description": "The limner�s line shalt be false. \r",
     "range": [27, 27]
   }, {
-    "description": "Le jour saint sera ton dernier.\r",
+    "description": "The holy day shalt be thy last day. \r",
     "range": [28, 28]
   }, {
-    "description": "Tu mourras au lit, mais pas dans le tien ! \r",
+    "description": "Thou shalt die in bed, but not thine own! \r",
     "range": [29, 29]
   }, {
-    "description": "Tu nourriras la terre nue de ton sang. \r",
+    "description": "Thou shalt feed the barren soil with thy blood. \r",
     "range": [30, 30]
   }, {
-    "description": "Quand tu seras dans le besoin, Shallya te délaissera. \r",
+    "description": "When thy need is greatest, Shallya shalt turn Her back to thee. \r",
     "range": [31, 31]
   }, {
-    "description": "La faux moissonnera ta chair. \r",
+    "description": "The scythe shall reap thy flesh. \r",
     "range": [32, 32]
   }, {
-    "description": "Ton âme aveuglée par la colère ne verra pas ton ennemi venir.\r",
+    "description": "Thy soul, consumed with anger, shall be blinded to the unseen enemy. Roll The Prophet Speaketh \r",
     "range": [33, 33]
   }, {
-    "description": "Un ami dans le besoin précipitera ta fin.\r",
+    "description": "A friend in need brings thy death with speed. \r",
     "range": [34, 34]
   }, {
-    "description": "La lueur de Morrslieb puisera ton dernier souffle. \r",
+    "description": "Thy last breath is drawn by Morrsleib�s light. \r",
     "range": [35, 35]
   }, {
-    "description": "Des rats porteurs des cornes de Taal se hâteront à tes trousses.\r",
+    "description": "Rats wearing the Horns of Taal shalt bite at thy heels. \r",
     "range": [36, 36]
   }, {
-    "description": "L'épée ne servira point la justice, seule la souffrance viendra de son fil.\r",
+    "description": "The sword shalt bring no justice, only suffering. \r",
     "range": [37, 37]
   }, {
-    "description": "La comète à deux queues prendra son essor, tu sombreras.\r",
+    "description": "The twin-tailed comet doth soar as thou dost fall. \r",
     "range": [38, 38]
   }, {
-    "description": "L'eau veut ta mort, quel que soit son genre. \r",
+    "description": "Water of all kinds is thy nemesis. \r",
     "range": [39, 39]
   }, {
-    "description": "Ta mort se tapit dans le crépuscule. \r",
+    "description": "Thy end lieth hidden in the gloaming. \r",
     "range": [40, 40]
   }, {
-    "description": "La hauteur promet une fin bien basse. \r",
+    "description": "High places promise a low end. \r",
     "range": [41, 41]
   }, {
-    "description": "D'amour sera ta dernière exclamation.\r",
+    "description": "Thy last exclamation is love. \r",
     "range": [42, 42]
   }, {
-    "description": "Gare à l'homme qui n'en est pas un ! \r",
+    "description": "Beware the man that is not a man! \r",
     "range": [43, 43]
   }, {
-    "description": "Gare à la Vierge Aveugle, car Sa balance soupèsera ton âme.\r",
+    "description": "Beware the Blind Maiden, for Her scales shalt weigh thy soul. \r",
     "range": [44, 44]
   }, {
-    "description": "Ton chariot brisé annoncera ta fin. \r",
+    "description": "Thy broken cart shalt herald thy end. \r",
     "range": [45, 45]
   }, {
-    "description": "La brioche, la pâtisserie et la tourte ; Morr les prépare pour toi !\r",
+    "description": "The bun, the pastry, and the pie, yea, they art Morr�s dishes! \r",
     "range": [46, 46]
   }, {
-    "description": "Quand sonne le glas, c'est à toi qu'il s'adresse. \r",
+    "description": "When the bell doth toll, it doth toll for thee. \r",
     "range": [47, 47]
   }, {
-    "description": "La couronne de lauriers cache une épine empoisonnée. \r",
+    "description": "The laurel wreath hides a poisoned thorn. \r",
     "range": [48, 48]
   }, {
-    "description": "Ne t'attarde pas à la selle, ni près de la corde. \r",
+    "description": "Linger not upon the privvie, nor the long drop neither. \r",
     "range": [49, 49]
   }, {
-    "description": "Cacklefax saisit la monnaie de ton destin. \r",
+    "description": "Cacklefax grips tight to coins of thy doom. \r",
     "range": [50, 50]
   }, {
-    "description": "Le sablier se brise avant que ton dernier grain ne tombe.\r",
+    "description": "The hourglass shatters before thy last grain falls. \r",
     "range": [51, 51]
   }, {
-    "description": "Des ténèbres surgit le grand corbeau. \r",
+    "description": "From the darkness cometh the raven. \r",
     "range": [52, 52]
   }, {
-    "description": "Le sang bleu éclaboussera le tien. \r",
+    "description": "High-born blood shalt spill thine own. \r",
     "range": [53, 53]
   }, {
-    "description": "D'en haut vient la mort.\r",
+    "description": "From above comes thy death. \r",
     "range": [54, 54]
   }, {
-    "description": "La peste et le mal noir te mettront à genoux.\r",
+    "description": "Plague and dark disease shalt bring thee to thine knees. \r",
     "range": [55, 55]
   }, {
-    "description": "Gare à la chair verte, elle te fera sombrer.\r",
+    "description": "Beware skin of green, it shalt afflict thee.\r",
     "range": [56, 56]
   }, {
-    "description": "Méfie-toi de la verdure, le désastre se cache dans ses profondeurs.\r",
+    "description": "Beware the verdant depths, within doth lie disaster. \r",
     "range": [57, 57]
   }, {
-    "description": "Tel le danseur il te faut être, car des paroles déplacées attireront Morr près de toi.\r",
+    "description": "Be like the dancer, for rude words bring Morr to thy side. \r",
     "range": [58, 58]
   }, {
-    "description": "La pire des pourritures te dévorera de l'intérieur. \r",
+    "description": "The darkest rot shall eat thee from within. \r",
     "range": [59, 59]
   }, {
-    "description": "Les dieux veillent sur ta destination. \r",
+    "description": "The Gods watch over thy end. \r",
     "range": [60, 60]
   }, {
-    "description": "Attention au forgeron ; ton destin repose en son art. \r",
+    "description": "Heed not the smith, in his artifice lies thy doom. \r",
     "range": [61, 61]
   }, {
-    "description": "Refuse le baudrier de Grugni, car il entraînera ton trépas.\r",
+    "description": "Wear not Grugni�s baldric, for it shall carry thy death. \r",
     "range": [62, 62]
   }, {
-    "description": "Prépare tes pièces au treizième carillon.\r",
+    "description": "Ready your coins on the thirteenth chime. \r",
     "range": [63, 63]
   }, {
-    "description": "Le tambour bat ton glas.\r",
+    "description": "The drummer beats out thy end. \r",
     "range": [64, 64]
   }, {
-    "description": "L'oeil et la vanité de Karya précipiteront ta perte. \r",
+    "description": "Katya�s eye and vanity shalt speed thee to death. \r",
     "range": [65, 65]
   }, {
-    "description": "Ton trépas brûle de flammes invisibles.\r",
+    "description": "Thy end burns with flames unseen. \r",
     "range": [66, 66]
   }, {
-    "description": "De la mauvaise réputation, viendra la mauvaise santé. \r",
+    "description": "An ill reputation shalt an ill man make. \r",
     "range": [67, 67]
   }, {
-    "description": "Morr te trouve nu le jour de ta naissance. \r",
+    "description": "Morr finds thee naked as the day of thy birth. Roll The Prophet Speaketh \r",
     "range": [68, 68]
   }, {
-    "description": "Va pour un bœuf, mais deux appellent le corbeau. \r",
+    "description": "One bullock is safe; two bullocks bringeth the raven. \r",
     "range": [69, 69]
   }, {
-    "description": "Ne convoite pas le sang ; il a soif de toi.\r",
+    "description": "Thirst not for blood, for it thirsts for thee. \r",
     "range": [70, 70]
   }, {
-    "description": "Au moment le plus sûr, tu failliras.\r",
+    "description": "In thy surest moment, thou shalt fail. \r",
     "range": [71, 71]
   }, {
-    "description": "Gare à la bête des bois, Morr en a fait son messager. \r",
+    "description": "Beware the beast in the wood, it is Morr�s Messenger. \r",
     "range": [72, 72]
   }, {
-    "description": "Tu siroteras la coupe de la corruption. \r",
+    "description": "Thou shalt sup from the cup of corruption. \r",
     "range": [73, 73]
   }, {
-    "description": "Crains l'œuvre du Grimoire, elle t'est funeste. \r",
+    "description": "Fear the workings of the bonesaw, they are the source of thy death. \r",
     "range": [74, 74]
   }, {
-    "description": "Ta générosité te vaudra deux sous et une épée. \r",
+    "description": "Thy generosity bringeth tuppence and a sword in return. \r",
     "range": [75, 75]
   }, {
-    "description": "L'oeil flétri sera ton prix et ton destin.\r",
+    "description": "The withering eye is thy reward, and thy end. \r",
     "range": [76, 76]
   }, {
-    "description": "L'écho de la torture et de la douleur accompagne ton départ.\r",
+    "description": "Torture and pain echo in thy end. \r",
     "range": [77, 77]
   }, {
-    "description": "Ne suis pas les traces de Dragomas. \r",
+    "description": "Follow not the steps of Dragomas. \r",
     "range": [78, 78]
   }, {
-    "description": "Ton destin est marqué par la violence. \r",
+    "description": "Thy doom is wrought from violence. \r",
     "range": [79, 79]
   }, {
-    "description": "Ceux qui naissent dans le chaudron de Rhya édifieront ta pierre au corbeau.\r",
+    "description": "Those born of Rhya�s cauldron shalt build thee a ravenstone. \r",
     "range": [80, 80]
   }, {
-    "description": "L'absence affaiblira ton cœur. \r",
+    "description": "Absence makes thy heart grow weaker. \r",
     "range": [81, 81]
   }, {
-    "description": "La source myrmidéenne t'est venimeuse. \r",
+    "description": "The Myrmidian spring is thy poison. \r",
     "range": [82, 82]
   }, {
-    "description": "Méfie-toi de la corneille et honore le corbeau.\r",
+    "description": "Beware the crow, honour the raven.\r",
     "range": [83, 83]
   }, {
-    "description": "Mieux vaut la chèvre sauvage que garder un secret. \r",
+    "description": "A greased goat is safer than keeping secrets. \r",
     "range": [84, 84]
   }, {
-    "description": "Les gens de Manann ne t'aimeront point. \r",
+    "description": "Manann�s folk shalt love thee not. \r",
     "range": [85, 85]
   }, {
-    "description": "Trois fois hanté, Morr viendra rétablir la paix. \r",
+    "description": "When thou art thrice haunted, Morr brings peace. \r",
     "range": [86, 86]
   }, {
-    "description": "Marche avec Vobis, car la certitude te volera le souffle. \r",
+    "description": "Walk with Vobist, for certainty shall take thy breath. \r",
     "range": [87, 87]
   }, {
-    "description": "Gare à l'ardillon du Seigneur du Meurtre ; il attend de te frapper dans les ténèbres.\r",
+    "description": "Beware the Lord of Murder�s barb�it awaits to strike at thee from the darkness. \r",
     "range": [88, 88]
   }, {
-    "description": "La lame étincelante gravera ton départ. \r",
+    "description": "The flashing blade shalt carve thy end. \r",
     "range": [89, 89]
   }, {
-    "description": "De terribles machines crachent les flammes de ta destruction!\r",
+    "description": "Fearsome engines belch forth fires of thy destruction! \r",
     "range": [90, 90]
   }, {
-    "description": "Ta fin n'est pas ultime ! \r",
+    "description": "Thy end is not the end! \r",
     "range": [91, 91]
   }, {
-    "description": "Comme le flûtiste joue son air, ton cœur cède. \r",
+    "description": "As the piper plays his tune, thy heart shall break. \r",
     "range": [92, 92]
   }, {
-    "description": "Le vert te terrassera.\r",
+    "description": "Green shalt undo thee. \r",
     "range": [93, 93]
   }, {
-    "description": "La sombre rumeur précédera l'arrivée de Morr. \r",
+    "description": "As dark news comes knocking, Morr shalt surely follow. \r",
     "range": [94, 94]
   }, {
-    "description": "Comme Wymund tu te dresseras, jusqu'à ce que Shallya courtise tes ennemis.\r",
+    "description": "Thou shalt stand like Wymund until Shallya courts thy enemies. \r",
     "range": [95, 95]
   }, {
-    "description": "Ranald t'abandonnera. \r",
+    "description": "Ranald shalt abandon thee. \r",
     "range": [96, 96]
   }, {
-    "description": "Ne songe pas au-delà de ta condition, car le changement est le héraut de Morr.\r",
+    "description": "Think not beyond thy station, for change is the herald of Morr. \r",
     "range": [97, 97]
   }, {
-    "description": "Morr envoie une vierge. \r",
+    "description": "Morr sends a maiden. \r",
     "range": [98, 98]
   }, {
-    "description": "Sans la grande croix, tu prendras la mauvaise décision. \r",
+    "description": "Without the big cross, thou shalt make the wrong decision. \r",
     "range": [99, 99]
   }, {
-    "description": "Alors qu'il s'apprête à rapporter votre destinée, le Prophète s'écroule mort, le visage figé dans une sexpression d'horreur.",
+    "description": " Just before he uttered your doom, the doomsayer died, his face frozen in a mask of horror.",
     "range": [100, 100]
   }]
 }

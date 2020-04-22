@@ -1,27 +1,23 @@
 {
-  "die": "1d100",
+  "die": "1d4",
   "hide": true,
-  "name": "Maladresses de monture",
+  "name": "Animal Mishaps",
   "rows": [
     {
-      "name": "Sellerie cassée",
-      "description": "Une sangle de selle déchirée, un harnais déchiqueté ou un étrier perdu - une partie de l'amure de votre monture a été endommagée, ce qui rend les déplacements plus difficiles. Le monteur doit effectuer un test de Chevaucher Difficile (–10) ou tomber (d'une hauteur de 2 mètres). Jusqu'à ce que le harnachement soit réparé, tous les futurs tests de Chevaucher subiront une pénalité de -20.",
-      "range": [1,40]
+      "description": "A torn saddle strap, a shredded harness or a lost stirrup — some part of your mount’s tack has been damaged, making travel more difficult. The rider must make a Difficult (–10) Ride Test or fall off (a distance of 2 yards). Until the tack is repaired, all future Ride Tests suffer a –20 penalty.",
+      "range": [1,1]
     },
     {
-      "name": "Fer perdu",
-      "description": "L'animal perd un fer. Le monteur doit effectuer un test de Chevaucher difficile (–10) ou tomber (d'une hauteur de 2 mètres). L'animal doit se déplacer à l'allure de marche jusqu'à ce que le fer soit remplacé par un maréchal-ferrant. Forcer l'animal à se déplacer plus rapidement le fait devenir Boiteux.",
-      "range": [41,85]
-    },    
-    {
-      "name": "Boiteux",
-      "description": "L'animal ne peut pas se déplacer plus vite que la moitié de sa vitesse de marche, ne peut pas être monté ou transporter des sacs et ne peut pas tirer une charge. Tenter de continuer avec l'animal lors d'un voyage en utilisant les règles de voyage (page 27) augmente la durée du voyage d'une étape. Toute tentative de faire une des actions citées coûte 1d10 blessures à l'animal, quel que soit le bonus d'Endurance. Sur un résultat de 8+, l'animal doit effectuer un test d'endurance difficile (+0) ou subir une blessure critique à ses pattes.",
-      "range": [86,98]
+      "description": "The animal loses a shoe. The rider must make a Difficult (–10) Ride Test or fall off (a distance of 2 yards). The animal must move at a Walk until the shoe has been replaced by a farrier. Forcing the animal to move faster cause it to become Lame.",
+      "range": [2,2]
     },
     {
-      "name": "Jambe cassée",
-      "description": "L'animal souffre d'une fracture majeure sur sa patte et devient immobile. Si la fracture guérit, le mouvement de l'animal est réduit de moitié. Habituellement, lorsqu'un cheval ou similaire se casse une jambe, il y a peu d'espoir qu'il survive.",
-      "range": [99,100]
+      "description": "The animal cannot move faster than half its Walk speed, cannot be ridden or carry packs, and cannot pull a load. Attempting to bring the animal any further on a journey using the Travel rules (page 27) increases the journey length by 1 Stage. Any attempt to do any of these things costs the animal 1d10 Wounds, regardless of Toughness Bonus. On a roll of 8+, the animal must make a Challenging (+0) Endurance Test or suffer a Critical Wound to its legs.",
+      "range": [3,3]
+    },
+    {
+      "description": "The animal suffers a Broken Bone (Major) on its leg, and becomes immobile. If the broken bone ever heals, the animal’s Movement is reduced by half. Usually, when a horse or similar breaks a leg, there is little hope of it surviving.",
+      "range": [4,4]
     }
   ]
 }

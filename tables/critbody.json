@@ -1,105 +1,105 @@
 {
-  "name": "Blessures critiques au torse",
+  "name": "Body Critical Wounds",
   "die": "1d100",
   "rows": [{
-    "name": "Rien qu'une égratignure !",
+    "name": "Tis But A Scratch!",
     "wounds": "1",
-    "description": "Gagnez 1 Etat Hémorragique.",
+    "description": "Gain 1 Bleeding Condition.",
     "range": [1, 10]
   }, {
-    "name": "Coup au ventre",
+    "name": "Gut Blow",
     "wounds": "1",
-    "description": "Gagnez 1 État Assommé. Réussissez un Test de Résistance Facile (+40), ou vomissez et gagnez l'Etat A Terre.",
+    "description": "Gain 1 Stunned Condition. Pass an Easy (+40) Endurance Test, or vomit, gaining the Prone Condition.",
     "range": [11, 20]
   }, {
-    "name": "Dans les bijoux de famille!",
+    "name": "Low Blow!",
     "wounds": "1",
-    "description": "Les Personnages mâles doivent réussir un Test de Résistance Difficile (-20) ou gagner 3 États Assommé.",
+    "description": "Make a Hard (-20) Endurance Test or gain 3 Stunned Condition.",
     "range": [21, 25]
   }, {
-    "name": "Torsion du dos",
+    "name": "Twisted Back",
     "wounds": "1",
-    "description": "Subissez un Traumatisme Déchirure musculaire (Mineur).",
+    "description": "Suffer a Torn Muscle (Minor) injury.",
     "range": [26, 30]
   }, {
-    "name": "Souffle coupé",
+    "name": "Winded",
     "wounds": "2",
-    "description": "Gagnez l'État Assommé. Réussissez un Test de Résistance Accessible (+20) ou gagnez l'État À Terre. Votre Mouvement est réduit de moitié pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds, le temps que vous récupériez votre souffle.",
+    "description": "Gain a Stunned Condition. Make an Average (+20) Endurance Test, or gain the Prone Condition. Movement is halved for <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds as you get your breath back.",
     "range": [31, 35]
   }, {
-    "name": "Bleus aux côtes",
+    "name": "Bruised Ribs",
     "wounds": "2",
-    "description": "Tous les Tests basés sur l'Agilité sont effectués avec une pénalité de -10 pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> jours.",
+    "description": "All Agility-based Tests suffer a -10 penalty for <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> days.",
     "range": [36, 40]
   }, {
-    "name": "Clavicule tordue",
+    "name": "Wrenched Collar Bone",
     "wounds": "2",
-    "description": "Choisissez un bras au hasard. Lâchez ce que la main correspondante tenait ; le bras est inutilisable pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds (voir Membres Amputés).",
+    "description": "Randomly select one arm. Drop whatever is held in that hand; the arm is useless for <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds.",
     "range": [41, 45]
   }, {
-    "name": "Chairs déchirées",
+    "name": "Ragged Wound",
     "wounds": "2",
-    "description": "Gagnez 2 Etats Hémorragique.",
+    "description": "Take 2 Bleeding Conditions.",
     "range": [46, 50]
   }, {
-    "name": "Côtes fracturées",
+    "name": "Cracked Ribs",
     "wounds": "3",
-    "description": "Le coup fracture une ou plusieurs côtes. Gagnez 1 État Assommé. Subissez un Traumatisme Fracture (Mineure).",
+    "description": "The hit cracks one or more ribs. Gain a Stunned Condition. Gain a Broken Bone (Minor) injury.",
     "range": [51, 55]
   }, {
-    "name": "Blessure béante",
+    "name": "Gaping Chest Wound",
     "wounds": "3",
-    "description": "Gagnez 3 Etats Hémorragique. Tant que vous n'avez pas été la cible de Chirurgie, pour chaque Blessure supplémentaire que vous recevrez à cette Localisation, vous gagnerez 1 Etat Hémorragique, car la blessure se sera réouverte.",
+    "description": "Take 3 Bleeding Conditions. Until you receive Surgery, any Wounds you receive to the Body Hit Location will inflict an additional Bleeding Condition as the cut reopens.",
     "range": [56, 60]
   }, {
-    "name": "Entaille douloureuse",
+    "name": "Painful Cut",
     "wounds": "3",
-    "description": "Gagnez 2 Etats Hémorragique et 1 État Assommé. Réussissez un Test de Résistance Difficile (-20) ou gagnez 1 Etat Inconscient, vous évanouissant sous la douleur. Et si vous n'obtenez pas au moins DR 4, vous hurlez de douleur.",
+    "description": "Gain 2 Bleeding Conditions and a Stunned Condition. Take a Hard (-20) Endurance Test or gain the Unconscious Condition as you black out from the pain. Unless you achieve 4+ SL, you also scream out in agony.",
     "range": [61, 65]
   }, {
-    "name": "Dégâts artériels",
+    "name": "Arterial Damage",
     "wounds": "3",
-    "description": "Gagnez 4 Etats Hémorragique. Tant que vous n'aurez pas été soigné par Chirurgie, chaque nouvelle Blessure à cette Localisation vous fera gagner 2 États Hémorragique.",
+    "description": "Gain 4 Bleeding Conditions. Until you receive Surgery, every time you receive Damage to the Body Hit Location, gain 2 Bleeding Conditions.",
     "range": [66, 70]
   }, {
-    "name": "Dos froissé",
+    "name": "Pulled Back",
     "wounds": "4",
-    "description": "Une douleur irradiante vous assaille alors que vous faites jouer vos muscles. Subissez un Traumatisme Déchirure musculaire (Majeur).",
+    "description": "Your back turns to white pain as you pull a muscle. Suffer a Torn Muscle (Major) injury.",
     "range": [71, 75]
   }, {
-    "name": "Hanche fracturée",
+    "name": "Fractured Hip",
     "wounds": "4",
-    "description": "Gagnez l'Etat Assommé. Réussissez un Test de Résistance Intermédiaire (+0) ou gagnez également l'Etat A Terre. Subissez 1 Traumatisme Fracture (Mineure).",
+    "description": "Gain a Stunned Condition. Take a Challenging (+0) Endurance Test or also gain the Prone Condition. Suffer a Broken Bone (Minor) injury.",
     "range": [76, 80]
   }, {
-    "name": "Blessure majeure au torse",
+    "name": "Major Chest Wound",
     "wounds": "4",
-    "description": "Vous recevez une blessure importante au torse qui arrache la peau de ses muscles et de ses tendons. Recevez 4 Etats Hémorragique. Tant que vous n'êtes pas soigné par Chirurgie afin de recoudre la blessure, toute nouvelle Blessure que vous recevrez à cette Localisation vous fera gagner 2 Etats Hémorragique supplémentaires à cause de la réouverture de la blessure.",
+    "description": "You take a significant wound to your chest, flensing skin from muscle and sinew. Take 4 Bleeding Conditions. Until you receive Surgery, to stitch the wound together, any Wounds you receive to the Body Hit Location will also inflict 2 Bleeding Conditions as the tears reopen.",
     "range": [81, 85]
   }, {
-    "name": "Blessure au ventre",
+    "name": "Gut Wound",
     "wounds": "4",
-    "description": "Vous contractez une Blessure Purulente (voir Maladie et Infection) et gagnez 2 États Hémorragique.",
+    "description": "Contract a Festering Wound and gain 2 Bleeding Conditions.",
     "range": [86, 90]
   }, {
-    "name": "Cage thoracique perforée",
+    "name": "Smashed Rib Cage",
     "wounds": "5",
-    "description": "Gagnez 1 Etat Assommé qui ne peut être retiré que par Aide Médicale, et subissez un Traumatisme Fracture (Majeure).",
+    "description": "Gain a Stunned Condition that can only be removed through Medical Attention, and suffer a Broken Bone (Major) injury.",
     "range": [91, 93]
   }, {
-    "name": "Clavicule cassée",
+    "name": "Broken Collar Bone",
     "wounds": "5",
-    "description": "Gagnez 1 Etat Inconscient jusqu'à ce que vous soyez soigné par Aide Médicale et subissez un Traumatisme Fracture (Majeure).",
+    "description": "Gain the Unconscious Condition until you receive Medical Attention, and suffer a Broken Bone (Major) injury.",
     "range": [94, 96]
   }, {
-    "name": "Hémorragie interne",
+    "name": "Internal Bleeding",
     "wounds": "5",
-    "description": "Gagnez 1 Etat Hémorragique qui ne peut être retiré que par Chirurgie. Vous contractez Infection Sanguine (voir Maladie et Infection).",
+    "description": "Gain a Bleeding Condition that can only be removed through Surgery. Contract Blood Rot.",
     "range": [97, 99]
   }, {
-    "name": "Eventré",
-    "wounds": "Mort",
-    "description": "Vous êtes littéralement coupé en deux. Les deux parties de votre corps atterrissent de façon parfaitement aléatoire au sol, et tout Personnage situé à moins de 2 mètres est recouvert de sang.",
+    "name": "Torn Apart",
+    "wounds": "Death",
+    "description": "You are hacked in two. The top half lands in a random direction, and all characters within 2 yards are showered in blood.",
     "range": [100, 100]
   }]
 }

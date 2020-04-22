@@ -1,45 +1,45 @@
 {
-  "name": "Table de Voyage",
+  "name": "Travel Table",
   "die": "1d10",
   "rows": [{
-    "name": "Voyage reposant",
-    "description": "Le voyage se déroule sans heurts, les Personnages se reposent bien, le paysage est particulièrement inspirant et ils rencontrent peut-être un PNJ guérisseur ou prêtre serviable. Les Personnages peuvent guérir toutes les Blessures et retirer tous les Etats <em>Exténué</em>.",
+    "name": "Even Nature Hates You!",
+    "description": "The Characters find themselves in danger from nature. Deadly animals, lightning storms, disease, insects, you name it. This could result in violence, or in them receiving a Condition, or in a small but vicious encounter when they choose the wrong shepherd's hut as a shelter.",
     "range": [1, 1]
   }, {
-    "name": "Quelque chose d'intéressant",
-    "description": "une rencontre fortuite sur la route avec d'autres voyageurs, une auberge de qualité ou un sanctuaire, ou encore de vieilles ruines étranges constituent une merveilleuse histoire à partager.",
+    "name": "Attacked!",
+    "description": "The Characters are attacked on their journey. It could be an unlucky encounter relevant to the area they are travelling through (Beastmen in the deep forest, for instance) or something planned by their opponents (hired thugs to stop the Characters reaching their destination). If they fail a Routine (+20) Perception Test, they may even be ambushed!",
     "range": [2, 2]
   }, {
-    "name": "A présent, c'est utile!",
-    "description": "les Personnages découvrent quelque chose d'intéressant dans leur aventure - un ragot, un message perdu, un évènement dont ils n'étaient pas censés être témoins, ou autre.",
+    "name": "Restful Journey",
+    "description": "The journey is blessedly uneventful, the Characters get good rest, the scenery is particularly inspiring, and perhaps they meet an NPC healer or helpful priest. The Characters can heal all Wounds and recover all Fatigued Conditions.",
     "range": [3, 3]
   }, {
-    "name": "Voyage éreintant !",
-    "description": "La route est bloquée. Un pont peut être effonré, une rivière bloquée ou une route inondée, ou quelque autre obstacle insurmontable. Un Personnage effectue un <strong>Test de Survie en extérieur Accessible(+20)</strong> pour trouver un bon itinéraire de substitution, sinon tout le monde arrive un jour plus tard avec un Etat <em>Exténué</em>.",
+    "name": "How Interesting!",
+    "description": "A chance encounter on the road with other travellers, a particularly good inn or shrine, or an intriguing ancient ruin gives a wonderful story to share.",
     "range": [4, 4]
   }, {
-    "name": "Poursuivis !",
-    "description": "un ennemi retrouve la trace des Personnages et il doit être géré ou mis sur une fausse poste avant qu'ils n'atteignent leur destination. S'ils n'ont pas encore d'ennemi désigné, jetez un coup d'oeil dans le passé des Personnages - et il y aura bien quelque chose. La confrontation pourrait être violente à moins qu'ils ne s'en sortent en parlant, et semer leur poursuivant pourrait rajouter quelques jour à leur voyage",
+    "name": "Now That's Useful!",
+    "description": "The Characters find out something relevant to their adventure — gossip, a lost message, a sight they weren't meant to witness, or similar.",
     "range": [5, 5]
   }, {
-    "name": "Voleurs!",
-    "description": "les Personnages se font dévaliser. Peut-être par quelqu'un voyageant avec eux, partageant leur campement pour la nuit ou juste lors d'une brève conversation sur la route. Est-ce qu'ils cessent de rechercher leurs affaires ou bien considèrent-ils ce méfait comme faisant partie des risques d'une vie aventureuse ?",
+    "name": "Tiring Journey!",
+    "description": "The route is blocked. A bridge could be down, a river blocked or road flooded, or some other insurmountable obstacle. One Character makes a Average (+20) Outdoor Survival Test to find a good alternative route, otherwise everyone arrives a day late, with a Fatigued Condition.",
     "range": [6, 6]
   }, {
-    "name": "Pas encore!",
-    "description": "un rival ou une autre source de contrariété menace les Personnages pendant leur voyage. Jouez cela pour rire, mais il faudrait que ce soit particulièrement ennuyeux et un fléau mineu réurent dans la vie des Personnages. Pas assez pour tomber dans la violence, mais pas loin. Il peut s'agit d'un membre d'une guilde rivale obsédé par le fait de \"surpasser\" un membre du groupe, ou un pasager de diligence avec un comportement particulièrement irritant.",
+    "name": "Pursued!",
+    "description": "An enemy picks up the Characters' trail and has to be dealt with or put off the scent before they can reach their destination. If they don't have an obvious enemy yet, look to the Characters' backgrounds — there will be something in there somewhere. The confrontation could be violent unless they can talk their way out of it, and losing their tail could add days to their journey.",
     "range": [7, 7]
   }, {
-    "name": "Mauvaise influence!",
-    "description": "Les Personnages rencontrent quelqu'un qui semble vouloir les aider, mais ses intentions sont sinistres. Ce type malodorant, qui connaît un racourci à la traver le Jardin de Morr, insiste pour que vous passiez devant. La charmante vieille aristocrate qui vous invite à rester à diner dans sa demeure ancestrale. La femme débraillée qui  sait où trouver les \"meilleurs\" champignons. Amusez-vous !",
+    "name": "Thieves!",
+    "description": "Somehow the Characters get robbed. Perhaps it was someone travelling with them, sharing their campfire for the night or just a brief conversation on the road. Do they stop to chase down their belongings or write it off as a risk of the adventurous life?",
     "range": [8, 8]
   }, {
-    "name": "Même la nature vous déteste!",
-    "description": "les Personnages sont menacés par la nature. Des animaux mortels, des orages, des maladies, des insectes, etc. Cela pourrait mener à la violence, ou à recevoir un Etat (à voir), ou à une petite, mais désagréable, rencontre parce qu'ils choisissent la mauvaise cabane de berger comme refuge.",
+    "name": "Not Them Again!",
+    "description": "A rival or other source of annoyance plagues the Characters on their journey. Play this for laughs but make them genuinely annoying and a recurring minor bane of the Character's lives. Never enough to fall to violence, but close. They could be a rival guild member obsessed with 'winning' over a member of the group, or a coach passenger with an especially irritating demeanour.",
     "range": [9, 9]
   }, {
-    "name": "Attaqués!",
-    "description": "les Personnages sont attaqués pendant leur voyage. Il peut s'agit d'une rencontre malheureuse dans la zone qu'ils traversent (des hommes-bêtes dans la forêt profonde, par exemple) ou quelqe chose prévu par leurs adversaires (des voyous engagés pour empêcher les Personnages d'atteindre leur destination). S'ils ratent un <strong>Test de Perception Accessible (+20)</strong>, ils peuvent même tomber dans une embuscade.",
+    "name": "Bad Influence!",
+    "description": "The Characters encounter someone who appears to help them but has sinister intentions. That bad-smelling guy who knows a shortcut through the Garden of Morr and insists you go first. The charming old aristocrat who invites you to stay for dinner in her ancestral home. The scruffy woman who knows where to find all the 'best' mushrooms. Have fun!",
     "range": [10, 10]
   }]
 }

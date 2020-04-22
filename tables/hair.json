@@ -1,5 +1,5 @@
 {
-  "name": "Couleur de cheveux aléatoire",
+  "name": "Random Hair Colour",
   "columns": ["human", "dwarf", "halfling", "helf", "welf"],
   "die": "2d10",
   "hide": true,
@@ -12,7 +12,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Amande"
+      "name": "Almond"
     },
     {
       "range":{
@@ -22,7 +22,7 @@
         "helf" : [],
         "welf" : [3, 3]
       },
-      "name": "Blond cendré"
+      "name": "Ash Blond"
     },
     {
       "range":{
@@ -42,7 +42,7 @@
         "helf" : [],
         "welf" : [2, 2]
       },
-      "name": "Bouleau argenté"
+      "name": "Birch Silver"
     },
     {
       "range":{
@@ -52,7 +52,7 @@
         "helf" : [20, 20],
         "welf" : []
       },
-      "name": "Noir"
+      "name": "Black"
     },
     {
       "range":{
@@ -72,7 +72,7 @@
         "helf" : [],
         "welf" : [20, 20]
       },
-      "name": "Noir bleuté"
+      "name": "Blue-Black"
     },
     {
       "range":{
@@ -92,7 +92,7 @@
         "helf" : [],
         "welf" : [8, 11]
       },
-      "name": "Brun"
+      "name": "Brown"
     },
     {
       "range":{
@@ -102,7 +102,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Chataîgne"
+      "name": "Chestnut"
     },
     {
       "range":{
@@ -112,7 +112,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Chocolat"
+      "name": "Chocolate"
     },
     {
       "range":{
@@ -122,7 +122,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Cuivre"
+      "name": "Copper"
     },
     {
       "range":{
@@ -132,7 +132,7 @@
         "helf" : [12, 14],
         "welf" : []
       },
-      "name": "Blond cuivré"
+      "name": "Copper Blond"
     },
     {
       "range":{
@@ -142,7 +142,7 @@
         "helf" : [],
         "welf" : [15, 17]
       },
-      "name": "Marron foncé"
+      "name": "Dark Brown"
     },
     {
       "range":{
@@ -152,7 +152,7 @@
         "helf" : [],
         "welf" : [19, 19]
       },
-      "name": "Ebène"
+      "name": "Ebony"
     },
     {
       "range":{
@@ -162,7 +162,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Paille"
+      "name": "Flaxen"
     },
     {
       "range":{
@@ -172,7 +172,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Gingembre"
+      "name": "Ginger"
     },
     {
       "range":{
@@ -182,7 +182,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Doré"
+      "name": "Golden"
     },
     {
       "range":{
@@ -192,7 +192,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Blond doré"
+      "name": "Golden Blond"
     },
     {
       "range":{
@@ -202,7 +202,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Gris"
+      "name": "Grey"
     },
     {
       "range":{
@@ -212,7 +212,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Miel"
+      "name": "Honey"
     },
     {
       "range":{
@@ -222,7 +222,7 @@
         "helf" : [],
         "welf" : [5, 7]
       },
-      "name": "Blond miel"
+      "name": "Honey Blond"
     },
     {
       "range":{
@@ -232,7 +232,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Brun clair"
+      "name": "Light Brown"
     },
     {
       "range":{
@@ -242,7 +242,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Réglisse"
+      "name": "Liquorice"
     },
     {
       "range":{
@@ -252,7 +252,7 @@
         "helf" : [],
         "welf" : [12, 14]
       },
-      "name": "Brun acajou"
+      "name": "Mahogany Brown"
     },
     {
       "range":{
@@ -262,7 +262,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Moutarde"
+      "name": "Mustard"
     },
     {
       "range":{
@@ -272,7 +272,7 @@
         "helf" : [4, 4],
         "welf" : []
       },
-      "name": "Blond pâle"
+      "name": "Pale Brown"
     },
     {
       "range":{
@@ -282,7 +282,7 @@
         "helf" : [19, 19],
         "welf" : []
       },
-      "name": "Rouge"
+      "name": "Red"
     },
     {
       "range":{
@@ -292,7 +292,7 @@
         "helf" : [15, 17],
         "welf" : []
       },
-      "name": "Blond ambré"
+      "name": "Red Blond"
     },
     {
       "range":{
@@ -302,7 +302,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Brun roux"
+      "name": "Reddish Brown"
     },
     {
       "range":{
@@ -312,7 +312,7 @@
         "helf" : [],
         "welf" : [4, 4]
       },
-      "name": "Or rose"
+      "name": "Rose Gold"
     },
     {
       "range":{
@@ -322,7 +322,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Roussâtre"
+      "name": "Russet"
     },
     {
       "range":{
@@ -332,7 +332,7 @@
         "helf" : [],
         "welf" : [18, 18]
       },
-      "name": "Sienne"
+      "name": "Sienna"
     },
     {
       "range":{
@@ -342,7 +342,7 @@
         "helf" : [2, 2],
         "welf" : []
       },
-      "name": "Argent"
+      "name": "Silver"
     },
     {
       "range":{
@@ -352,7 +352,7 @@
         "helf" : [3, 3],
         "welf" : []
       },
-      "name": "Blanc"
+      "name": "White"
     },
     {
       "range":{
@@ -362,7 +362,7 @@
         "helf" : [],
         "welf" : []
       },
-      "name": "Blond blanc"
+      "name": "White Blond"
     },
     {
       "range":{
@@ -372,7 +372,7 @@
         "helf" : [8, 11],
         "welf" : []
       },
-      "name": "Blond intense"
+      "name": "Yellow Blond"
     }
   ]
 }

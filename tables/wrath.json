@@ -1,129 +1,129 @@
 {
-  "name": "Tableau de la colère des Dieux",
+  "name": "Wrath of the Gods Table",
   "die": "1d100",
   "rows": [{
-    "name": "Visions sacrées",
-    "description": "Les visions de votre dieu tourmentent vos sens. Tenter un Test de Résistance Accessible (+20). Si vous échouez, gagnez un Etat Assommé. Le MJ détermine ce que peuvent être les visions.",
+    "name": "Holy Visions",
+    "description": "Visions of your god plague your senses. Attempt an <b>Average (+20) Endurance</b> Test. If you fail gain one @Condition[Stunned] Condition. The GM determines what the visions may be.",
     "range": [1, 5]
   }, {
-    "name": "Pensez à vos actes",
-    "description": "Tout Test de Prière réussi ne peut pas atteindre plus de +0 DR pour la semaine suivante.",
+    "name": "Think Over Your Deeds",
+    "description": "Any successful Pray test cannot achieve more than +0 SL for the next week.",
     "range": [6, 10]
   }, {
-    "name": "Tenez compte de mes enseignements",
-    "description": "Vous souffrez d'une pénalité de -10 à votre Compétence de Prière pour les 1d10+(Points de Péché) prochains Rounds.",
+    "name": "Heed My Lessons",
+    "description": "You suffer a penalty of -10 to your Pray Skill for the next [[1d10]]+Sin points Rounds.",
     "range": [11, 15]
   }, {
-    "name": "Prouvez votre dévotion",
-    "description": "Gagnez un État À Terre. Cette condition n'est pas supprimée tant que vous n'avez pas réussi un Test de Prière Accessible (+20).",
+    "name": "Prove Your Devotion",
+    "description": "Gain the @Condition[Prone] Condition. This Condition is not removed until you score a Success with an <b>Average (+20) Pray</b> Test.",
     "range": [16, 20]
   }, {
-    "name": "Vous abusez de ma patience",
-    "description": "Vous ne pouvez pas faire de Tests de Prière pour 1d10 Rounds.",
+    "name": "You Try My Patience",
+    "description": "You cannot enact any Pray Tests for [[1d10]] Rounds.",
     "range": [21, 25]
   }, {
-    "name": "Vous ne comprenez pas ma volonté",
-    "description": "Vous subissez une pénalité de -10 à toute Compétence associée à votre divinité (telle que déterminée par le MJ) pour les 1d10+(Points de Péché) heures suivantes.",
+    "name": "You Do Not Understand My Intent",
+    "description": "You suffer a penalty of -10 to any Skills associated with your deity (as determined by the GM) for the next [[1d10]]+Sin points hours.",
     "range": [26, 30]
   }, {
-    "name": "Je trouve inquiétant votre manque de foi",
-    "description": "Vous ne pouvez pas faire de Tests de Prières pour 1d10+(Points de Péché) Rounds.",
+    "name": "I Find Your Lack of Faith Disturbing",
+    "description": "You cannot enact any Pray Tests for [[1d10]]+Sin points Rounds.",
     "range": [31, 35]
   }, {
-    "name": "Partagez ma douleur",
-    "description": "Vous souffrez de blessures de 1+(Points de Péché), ignorant le bonus d'Endurance et les PA. Tentez également un Test de Résistance Accessible (+20). Si vous échouez, gagnez un État Assommé.",
+    "name": "Share My Pain",
+    "description": "You suffer 1+Sin points Wounds, ignoring Toughness Bonus and APs. Also attempt an <b>Average (+20) Endurance</b> Test. If you fail gain one @Condition[Stunned] Condition.",
     "range": [36, 40]
   }, {
-    "name": "Votre cause est indigne",
-    "description": "Vos cibles gagnent un État À Terre. Toutes les Bénédictions ou Miracles de votre divinité qui les ciblent échouent automatiquement pour les prochains 1d10+(Points de Péché) jours.",
+    "name": "Your Cause is Unworthy",
+    "description": "Your targets gain the @Condition[Prone] condition. Any Blessings or Miracles of your deity targeting them automatically fail for the next [[1d10]]+Sin points days.",
     "range": [41, 45]
   }, {
-    "name": "Cessez vos babillages",
-    "description": "Vous ne pouvez pas faire de Tests de Prière pour les prochains 2d10+(Points de Péché) rounds.",
+    "name": "Cease Your Prattling",
+    "description": "You cannot enact any Pray Tests for the next [[2d10]]+Sin points rounds.",
     "range": [46, 50]
   }, {
-    "name": "Ressentez ma colère",
-    "description": "Vous souffrez de 1d10+(Points de Péché) Blessures. Tentez également un Test de Résistance Intermédiaire (+0). Si vous échouez, gagnez un État Assommé.",
+    "name": "Feel My Wrath",
+    "description": "You suffer [[1d10]]+Sin points Wounds. Also attempt a <b>Challenging (+0) Endurance</b> Test. If you fail gain one @Condition[Stunned] Condition.",
     "range": [51, 55]
   }, {
-    "name": "Je ne vous aiderez pas",
-    "description": "Vous subissez une pénalité de -10 à une Compétence associée à votre divinité (telle que déterminée par le MJ) pour les prochains 1d10+(Points de Péché) jours .",
+    "name": "I Shall Not Aid You",
+    "description": "You suffer a penalty of -10 to a Skill associated with your deity (as determined by the GM) for the next [[1d10]]+Sin Points days.",
     "range": [56, 60]
   }, {
-    "name": "Blessures divines",
-    "description": "Gagnez 1+ (Points de péché) États Hémorragique.",
+    "name": "Divine Wounds",
+    "description": "Gain 1+Sin points @Condition[Bleeding] conditions.",
     "range": [61, 65]
   }, {
-    "name": "Frappé de cécité",
-    "description": "Gagnez l'État À Terre. Gagnez 1+(Points de Péché) État Aveugle, qui ne peut être éliminé qu'en passant un Test de Prière Intermédiaire (+0), avec succès en éliminant 1 + DR États Aveuglées.",
+    "name": "Struck Blind",
+    "description": "Gain the @Condition[Prone] Condition. Gain 1+Sin point @Condition[Blinded] Conditions, which can only be removed by passing a <b>Challenging (+0) Pray</b> Test, with Success removing 1 + SL @Condition[Blinded] Conditions.",
     "range": [66, 70]
   }, {
-    "name": "Qu'allez-vous sacrifier ?",
-    "description": "Vous souffrez 1d10+(Points de Péché) Blessures, ignorant le Bonus d'Endurance et les PA. Essayez également un Test de Résistance Complexe (-10). Si vous échouez, gagnez un État Assommé.",
+    "name": "What Will You Sacrifice?",
+    "description": "You suffer [[1d10]]+Sin points Wounds, ignoring Toughness Bonus and APs. Also attempt a <b>Difficult (-10) Endurance</b> Test. If you fail gain one @Condition[Stunned] Condition.",
     "range": [71, 75]
   }, {
-    "name": "Vous avez péché contre moi",
-    "description": "Votre dieu est extrêmement agacé et vous force à faire des Tests de Prière en guise d'Action pour les prochains 1d10+Points Péché Rounds en pénitence.",
+    "name": "You Have Sinned Against Me",
+    "description": "Your god is extremely annoyed and forces you to you enact Pray Tests as your Action for the next [[1d10]]+Sin Points Rounds as a penance.",
     "range": [76, 80]
   }, {
-    "name": "Purifier la chair",
-    "description": "Vous souffrez de 2d10+(Points de Péché) Blessures, ignorant le bonus d'Endurance et les PA. Tentez également un Test de Résistance Difficile (-20). Si vous échouez, gagnez un État Assommé. Si vous échouez avec -4 DR ou moins, obtenez un État Inconscient qui dure un minimum de 1d10 Rounds.",
+    "name": "Purge the Flesh",
+    "description": "You suffer [[2d10]]+Sin points Wounds, ignoring Toughness Bonus and APs. Also attempt a <b>Hard (-20) Endurance</b> Test. If you fail gain one @Condition[Stunned] Condition. If you fail with -4 SL or fewer, gain an @Condition[Unconscious] Condition that lasts a minimum of [[1d10]] Rounds.",
     "range": [81, 87]
   }, {
-    "name": "Interférence démoniaque",
-    "description": "Les Dieux des Ténèbres répondent à vos supplications au lieu de votre dieux. 1d10 Petits Démons apparaissent à moins de 2d10 mètres de votre position, et attaquent les cibles les plus proches.",
+    "name": "Daemonic Interference",
+    "description": "The Dark Gods answer your pleas instead of your patron. [[1d10]] Lesser Daemons appear within [[2d10]] yards of your position, and attack the nearest targets.",
     "range": [88, 88]
   }, {
-    "name": "Redoutez ma colère",
-    "description": "Gagnez 1+(Points de Péché) en État Brisé.",
+    "name": "Fear My Wrath",
+    "description": "Gain 1+Sin points @Condition[Broken] Conditions.",
     "range": [89, 95]
   }, {
-    "name": "Faites pénitence",
-    "description": "Tu dois faire une pénitence.",
+    "name": "Go On Penance",
+    "description": "You must go on a Penance.",
     "range": [96, 100]
   }, {
-    "name": "Châtiment",
-    "description": "Vous êtes réduit à 0 Blessures (si vous n'y êtes pas déjà) puis gagnez un État Inconscient, qui ne peut pas être enlevée tant que vous n'avez pas récupéré au moins 1 Blessures.",
+    "name": "Castigation",
+    "description": "You are reduced to 0 Wounds (if you are not there already) then gain an @Condition[Unconscious] Condition, which cannot be removed until you regain at least 1 Wound.",
     "range": [101, 105]
   }, {
-    "name": "Ne prononcez pas mon nom en vain",
-    "description": "Vous perdez les Talents Bénis et Invoqués pour les prochains 1d10+(Points de Péché) jours.",
+    "name": "Do Not Use My Name in Vain",
+    "description": "You lose the Bless and Invoke Talents for the next [[1d10]]+Sin points days.",
     "range": [106, 110]
   }, {
-    "name": "Ne vous attachez pas aux futilités",
-    "description": "Toutes vos Objet sont retirées, vous laissant nue. Pour chaque pénitence que vous complétez, vous aurez un objet magique pris qui vous sera retourné, si vous avez un.",
+    "name": "Rely Not Upon Your Vanities",
+    "description": "You have all of your trappings removed, leaving you naked. For each Penance you complete, you will have one taken Magical Item returned to you, should you have any.",
     "range": [111, 115]
   }, {
-    "name": "Vous abusez de ma miséricorde",
-    "description": "Vous perdez les Talents d'invoquer et de Bénir pour les prochains 2d10+Jours de (Points de Péché).",
+    "name": "You Abuse My Mercy",
+    "description": "You lose the Invoke and Bless Talents for the next [[2d10]]+Sin points days.",
     "range": [116, 120]
   }, {
-    "name": "Contemplez votre cruauté",
-    "description": "Vous souffrez de visions atroces de tous vos échecs, qui semblent durer une éternité, mais qui sont terminés en un instant. Discutez avec votre MJ pour crée une psychologie personnalisée (voir page 190) qui reflète votre personnage qui vit l'expérience traumatisante.",
+    "name": "Behold Your Wickedness",
+    "description": "You suffer excruciating visions of all your failures, which seem to take an eternity, but are over in a moment. Discuss with your GM to build a custom Psychology (see page 190) to reflect your character dealing with the traumatic experience.",
     "range": [121, 125]
   }, {
-    "name": "Tonerre et foudre",
-    "description": "Ton dieu te frappe. Vous êtes réduit à 0 Blessures (si vous n'y êtes pas déjà) et obtenez l'État Enflammé.",
+    "name": "Thunderbolts and Lightning",
+    "description": "Your god smites you. You are reduced to 0 Wounds (if you are not there already) and gain the @Condition[Ablaze] condition.",
     "range": [126, 130]
   }, {
-    "name": "Souffrez comme je souffre",
-    "description": "Vous gagnez 1+(Points de Péché) chaque matin, jusqu'à ce que vous ayez fait une pénitence.",
+    "name": "Suffer As I Suffer",
+    "description": "You gain 1+Sin points @Condition[Bleeding] conditions every morning, until you have performed a Penance.",
     "range": [131, 135]
   }, {
     "name": "Excommunication",
-    "description": "Vous perdez les Talents Invoquer et Bénir jusqu'à ce que vous exécutiez 2 Pénitences ; la première Pénitence rend le Talent Bénir, et la seconde rend le Talent Invoquer. Tous les adeptes de votre dieu sont automatiquement conscients de votre situation ; tous les Tests pour interagir avec eux sont automatiquement Très Difficile (-30), et ne peuvent être modifiés positivement au-delà de cela.",
+    "description": "You lose the Invoke and Bless Talents until you perform 2 Penances; the first Penance returns the Bless Talent, and the second returns the Invoke Talent. All cultists of your god are automatically aware of your circumstance; all Tests to interact with them are automatically Very Hard (-30), and may not be positively modified above this.",
     "range": [136, 140]
   }, {
-    "name": "Prouvez votre valeur",
-    "description": "Un serviteur divin de votre divinité apparaît à moins de 100 mètres et attaque, intervient, réprimande ou similaire selon la nature du dieu offensé.",
+    "name": "Prove Your Worth",
+    "description": "A Divine Servant of your deity appears within [[1d100]] yards and attacks, intervenes, berates, or similar according to the nature of the offended god.",
     "range": [141, 145]
   }, {
-    "name": "Je te chasse",
-    "description": "Tu es abandonné par ton dieu. Vous perdez définitivement les Talents Bénis et Invoqués, et vous perdez toutes les Avancées de Prière. De plus, tous les adeptes de votre dieu sont automatiquement conscients de votre situation ; tous les Tests pour interagir avec eux sont automatiquement Très Difficile (-30), et ne peuvent être modifiés positivement au-delà.",
+    "name": "I Cast You Out",
+    "description": "You are abandoned by your god. You permanently lose the Bless and Invoke Talents, and lose all Pray Advances. Further, all cultists of your god are automatically aware of your circumstance; all Tests to interact with them are automatically Very Hard (-30), and may not be positively modified above this.",
     "range": [146, 150]
   }, {
-    "name": "Appelé à rendre des comtes",
-    "description": "Tu es convoqué devant ton dieu pour faire face au jugement final. A moins d'avoir un Point de Destins, vous ne revenez jamais. Si vous dépensez un Point de Destin, vous êtes renvoyé à un point choisi par le MJ, et vous subissez également les effets de Je vous chasse.",
+    "name": "Called to Account",
+    "description": "You are summoned before your god to face final judgement. Unless you have a Fate Point, you never return. If you spend a Fate Point, you are returned at a point of the GM's choosing, and also suffer the effects of I Cast You Out.",
     "range": [151, 151]
   }]
 }

@@ -1,9 +1,9 @@
 {
-  "name": "Espèces",
+  "name": "Species Table",
   "die" : "1d100",
   "rows": [
     {
-      "name": "Humain",
+      "name": "Human",
       "value": "human",
       "range": [1, 90]
     },
@@ -13,17 +13,17 @@
       "range": [91, 94]
     },
     {
-      "name": "Nain",
+      "name": "Dwarf",
       "value": "dwarf",
       "range": [95, 98]
     },
     {
-      "name": "Haut Elfe",
+      "name": "High Elf",
       "value": "helf",
       "range": [99, 99]
     },
     {
-      "name": "Elfe Sylvain",
+      "name": "Wood Elf",
       "value": "welf",
       "range": [100, 100]
     }

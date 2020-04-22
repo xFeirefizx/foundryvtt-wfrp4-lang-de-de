@@ -1,26 +1,26 @@
 {
-  "name": "Table des Maladresses",
+  "name": "Oops! Table",
   "die": "1d100",
   "rows": [{
-    "description": "Vous vous blessez tout seul en attaquant (nous vous suggeérons d'interpréter cet incident pour son côté amusant) - perdez une Blessure, sans tenir compte de votre Bonus d'Endurance ou de vos PA.",
+    "description": "Your manoeuvre was misjudged, leaving you out of position, or you lose grip of a ranged weapon. Next round, your Action suffers a penalty of -10.",
     "range": [1, 20]
   }, {
-    "description": "Votre arme de Corps à Corps s'ébrèche salement, ou votre arme à distance ne fonctionne pas, voire est sur le point de se briser - votre arme subit 1 Dégât. Le prochain round, vous agirez en dernier, sans tenir compte de l'ordre d'Initiative, ou de vos talents, ou de toute règle spéciale alors que vous la réparez (voir p156).",
+    "description": "You catch a part of your anatomy — lose 1 Wound, ignoring Toughness Bonus or Armour Points.",
     "range": [21, 40]
   }, {
-    "description": "Vous avez mal jugé de votre manoeuvre, ce qui vous laisse hors de position, ou vous perdez la prise de votre arme à distance. Au cours du prochain round, votre Action subira une pénalité de -10.",
+    "description": "Your melee weapon jars badly, or ranged weapon malfunctions or slightly breaks - your weapon suffers 1 Damage. Next round, you will act last regardless of Initiative order, Talents, or special rules as you recover (see page 156).",
     "range": [41, 60]
   }, {
-    "description": "Vous trébuchez franchement et peinez à vous redresser. Vous perdez votre prochain Mouvement.",
+    "description": "You stumble badly, finding it hard to right yourself. Lose your next Move.",
     "range": [61, 70]
   }, {
-    "description": "VOus ne tenez pas votre arme correctement, ou vous laissez tomber vos munitions. Vous perdez votre prochaine Action",
+    "description": "You mishandle your weapon, or you drop your ammunition. Miss your next Action.",
     "range": [71, 80]
   }, {
-    "description": "Vous effectuez un mouvement trop ample, ou vous trébuchez et vous tordez la cheville. Subissez le traumatisme @Compendium[wfrp4e.injuries.rlXUw5Bgz2xUjVbU]{Déchirure Musculaire (Mineur)} (voir p179). Ce dernier compte comme une Blessure Critique.",
+    "description": "You overextend yourself or stumble and twist your ankle. Suffer a @Compendium[wfrp4e.injuries.rlXUw5Bgz2xUjVbU]{Torn Muscle (Minor)}. This counts as a Critical Wound.",
     "range": [81, 90]
   }, {
-    "description": "Vous manquez complètement votre attaque et touchez 1 Allié au hasard à distance en utilisant le chiffre des unités de votre lancer de dés pour déterminer le DR.SI personne n'est à distance, vous vous frappez tout seul et obtenez l'état @Condition[Assommé] (voir p 167).",
+    "description": "You completely mess up, hitting 1 random ally in range using your rolled units die to determine the SL of the hit. If that's not possible, you somehow hit yourself in the face and gain a @Condition[Stunned] Condition.",
     "range": [91, 100]
   }]
 }

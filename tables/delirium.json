@@ -1,22 +1,22 @@
 {
-  "name": "Délire",
+  "name": "Delirium",
   "die": "1d10",
   "hide": true,
   "rows": [{
-    "name": "Interval de lucidité",
-    "description": "Vous avez une période de calme béni. Tous les Etats que vous avez précédemment gagnées grâce à votre délire sont supprimées.",
+    "name": "Lucid Interval",
+    "description": "You have a period of blissful calm. Any Conditions you have previously gained from your Delirium are removed.",
     "range": [1, 2]
   }, {
-    "name": "Sommeil réparateur",
-    "description": "On se tourne et on se retourne, on dort mais on ne se repose pas. Gagnez 1 état <a class='condition-chat'><i class='fas fa-user-injured'></i> Inconscient</a> pendant la prochaine heure, et 1 état <a class='condition-chat'><i class='fas fa-user-injured'></i> Fatigué</a> pendant les <b><a class='chat-roll'>1d10</a></b> prochaines heures.",
+    "name": "Fitful Sleep",
+    "description": "You toss and turn, asleep but not resting. Gain 1 <a class='condition-chat'><i class='fas fa-user-injured'></i> Unconscious</a> for the next hour, and 1 <a class='condition-chat'><i class='fas fa-user-injured'></i> Fatigued</a> Condition for the next <b><a class='chat-roll'>1d10</a></b> hours.",
     "range": [3, 5]
   }, {
     "name": "Confusion",
-    "description": "En proie à des visions étranges et déformées, vous obtenez un état <a class='condition-chat'><i class='fas fa-user-injured'></i> Etourdis</a> pendant l'heure qui suit.",
+    "description": "Plagued by weird, distorted visions, you gain one <a class='condition-chat'><i class='fas fa-user-injured'></i> Stunned</a> Condition for the next hour",
     "range": [6, 9]
   }, {
     "name": "Hallucinations",
-    "description": "Vous avez des visions étranges et terrifiantes, et vous devez faire un Test contre la terreur 3 toutes les 10 minutes pendant l'heure qui suit. Vous gagnez également +1 Condition <a class='condition-chat'><i class='fas fa-user-injured'></i> Etourdis</a> pendant les <b><a class='chat-roll'>1d10</a></b> heures suivantes.",
+    "description": "You see strange and terrifying visions, and must make a Test against Terror  3 every 10 minutes for the next hour. You also gain +1 <a class='condition-chat'><i class='fas fa-user-injured'></i> Stunned</a> Condition for the next <b><a class='chat-roll'>1d10</a></b> hours",
     "range": [10, 10]
   }]
 }
