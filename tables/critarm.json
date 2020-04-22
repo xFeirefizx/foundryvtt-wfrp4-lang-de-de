@@ -1,0 +1,104 @@
+{
+  "name": "Blessures critiques au bras",
+  "rows": [{
+    "name": "Choc au bras",
+    "wounds": "1",
+    "description": "Votre bras prend un choc au cours de l'attaque. Lâchez ce que vous teniez.",
+    "range": [1, 10]
+  }, {
+    "name": "Coupure mineure",
+    "wounds": "1",
+    "description": "Gagnez 1 État Hémorragique car vous saignez abondamment au niveau de 1 avant-bras.",
+    "range": [11, 20]
+  }, {
+    "name": "Torsion",
+    "wounds": "1",
+    "description": "Vous vous tordez le bras, vous occasionnant un traumatisme Déchirure musculaire (Mineur).",
+    "range": [21, 25]
+  }, {
+    "name": "Choc violent au bras",
+    "wounds": "2",
+    "description": "Vous recevez un coup particulièrement violent au cours de 1 attaque. Vous lâchez ce que vous teniez en main, et cette dernière devient inutilisable pour <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> - (Bonus d'Endurance) rounds (minimum de 1). Pendant ce temps, considérez votre main comme perdue (voir Membres Amputés).",
+    "range": [26, 30]
+  }, {
+    "name": "Déchirure musculaire",
+    "wounds": "2",
+    "description": "Le coup écrase votre avant-bras. Gagnez l'État Hémorragique et un traumatisme Déchirure musculaire (Mineur).",
+    "range": [31, 35]
+  }, {
+    "name": "Main ensanglantée",
+    "wounds": "2",
+    "description": "Votre main est méchamment coupée, ce qui rend votre prise glissante. Recevez 1 État Hémorragique. Tant que vous êtes sous l'effet de cet Etat, effectuez un Test de Dextérité Accessible (+20) avant d'effectuer une action qui nécessite que vous teniez quoi que ce soit dans cette main ; sur un échec, l'objet vous glisse de la main.",
+    "range": [36, 40]
+  }, {
+    "name": "Clef de bras",
+    "wounds": "2",
+    "description": "Votre bras est pratiquement arraché de son logement. Lâchez immédiatement ce que la main correspondante tenait ; le bras est inutilisable pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds (voir Membres Amputés).",
+    "range": [41, 45]
+  }, {
+    "name": "Blessure béante",
+    "wounds": "3",
+    "description": "Le coup ouvre une profonde blessure béante. Gagnez 2 Etats Hémorragique. ]usqu à ce que vous soyez la cible de Chirurgie afin de recoudre la blessure, tout nouveau Dégâts au Bras que vous subirez vous fera gagner 1 Etat Hémorragique à cause de la blessure qui se sera réouverte.",
+    "range": [46, 50]
+  }, {
+    "name": "Cassure nette",
+    "wounds": "3",
+    "description": "Un craquement significatif se fait entendre au moment ou le coup s'abat sur votre bras. Lâchez tout objet tenu par la main correspondante et subissez un Traumatisme : Fracture (Mineure). Réussissez un Test de Résistance Complexe (-10) ou gagnez 1 État Assommé.",
+    "range": [51, 55]
+  }, {
+    "name": "Ligament rompu",
+    "wounds": "3",
+    "description": "Vous lâchez immédiatement ce que vous teniez dans la main correspondante. Subissez un Traumatisme Déchirure musculaire (Majeur).",
+    "range": [56, 60]
+  }, {
+    "name": "Coupure profonde",
+    "wounds": "3",
+    "description": "Gagnez 2 États Hémorragique alors que votre bras subit une forte mutilation. Gagnez 1 État Assommé et subissez un traumatisme Déchirure musculaire (Mineur). Réussissez un Test de Résistance Difficile (-20) ou gagnez l'Etat Inconscient.",
+    "range": [61, 65]
+  }, {
+    "name": "Artère endommagée",
+    "wounds": "4",
+    "description": "Gagnez 4 États Hémorragique. Tant que vous n'avez pas été la cible de Chirurgie, à chaque fois que vous subissez des Dégâts à cette Localisation, vous gagnez 2 Etats Hémorragique.",
+    "range": [66, 70]
+  }, {
+    "name": "Coude fracassé",
+    "wounds": "4",
+    "description": "Le coup fracasse votre coude, faisant voler en éclat 1 os et le cartilage. Vous lâchez immédiatement ce que vous teniez dans la main correspondante et subissez un Traumatisme Fracture (Majeure).",
+    "range": [71, 75]
+  }, {
+    "name": "Epaule luxée",
+    "wounds": "4",
+    "description": "Votre bras est démis de son logement. Réussissez un Test de Résistance Difficile (-20) ou gagnez les États Assommé et À Terre. Lâchez ce que vous teniez dans la main : le bras est inutilisable et est considéré comme perdu (voir Membre Amputé). Gagnez l'État Assommé jusqu'à bénéficier d'Aide Médicale. Après application de cette Aide, un Test étendu de Guérison Accessible (+20) avec DR 6 est nécessaire pour pouvoir récupérer l'usage du bras. Les Tests effectués avec ce bras subissent une pénalité de -10 pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> jours.",
+    "range": [76, 80]
+  }, {
+    "name": "Doigt sectionné",
+    "wounds": "4",
+    "description": "L'horreur vous saisit alors que votre doigt s'envole - Amputation (Accessible). Gagnez 1 État Hémorragique.",
+    "range": [81, 85]
+  }, {
+    "name": "Main ouverte",
+    "wounds": "5",
+    "description": "Votre main s'ouvre sous la puissance du coup. Perdez 1 doigt - Amputation (Complexe). Gagnez 2 États Hémorragique et 1 État Assommé. Pour chaque round au cours duquel vous ne recevez pas d Aide Médicale, vous perdez un autre doigt. Si vous perdez tous vos doigts, vous perdez votre main - Amputation (Complexe).",
+    "range": [86, 90]
+  }, {
+    "name": "Biceps déchiré",
+    "wounds": "5",
+    "description": "Le coup sépare presque entièrement le biceps et le tendon de 1 os, laissant une blessure effrayante de laquelle le sang gicle, autant sur votre adversaire que sur vous. Vous lâchez automatiquement ce que vous teniez dans la main correspondante et subissez un traumatisme Déchirure musculaire (Majeur) en plus de gagner 2 Etats Hémorragique et 1 État Assommé.",
+    "range": [91, 93]
+  }, {
+    "name": "Main mutilée",
+    "wounds": "5",
+    "description": "Votre main n'est plus qu'un tas de chair hémorragique. Vous perdez votre main - Amputation (Difficile). Gagnez 2 États Hémorragique. Réussissez un Test de Résistance Difficile (-20) ou gagnez les États Assommé et A Terre.",
+    "range": [94, 96]
+  }, {
+    "name": "Tendons coupés",
+    "wounds": "5",
+    "description": "Vos tendons sont tranchés par la force du coup, et votre bras est devenu inutilisable - Amputation (Très Difficile). Gagnez 3 États Hémorragique, 1 État A Terre et 1 Etat Assommé. Réussissez un Test de Résistance Difficile (-20) ou gagnez l'Etat Inconscient.",
+    "range": [97, 99]
+  }, {
+    "name": "Démembrement brutal",
+    "wounds": "Mort",
+    "description": "Votre bras est coupé, faisant gicler le sang artériel jusqu'à <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d3</a> mètres dans une direction au hasard (voir Dispersion), avant que le coup termine sa course dans votre poitrine.",
+    "range": [100, 100]
+  }]
+}

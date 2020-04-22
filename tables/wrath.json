@@ -1,0 +1,129 @@
+{
+  "name": "Tableau de la colère des Dieux",
+  "die": "1d100",
+  "rows": [{
+    "name": "Visions sacrées",
+    "description": "Les visions de votre dieu tourmentent vos sens. Tenter un Test de Résistance Accessible (+20). Si vous échouez, gagnez un Etat Assommé. Le MJ détermine ce que peuvent être les visions.",
+    "range": [1, 5]
+  }, {
+    "name": "Pensez à vos actes",
+    "description": "Tout Test de Prière réussi ne peut pas atteindre plus de +0 DR pour la semaine suivante.",
+    "range": [6, 10]
+  }, {
+    "name": "Tenez compte de mes enseignements",
+    "description": "Vous souffrez d'une pénalité de -10 à votre Compétence de Prière pour les 1d10+(Points de Péché) prochains Rounds.",
+    "range": [11, 15]
+  }, {
+    "name": "Prouvez votre dévotion",
+    "description": "Gagnez un État À Terre. Cette condition n'est pas supprimée tant que vous n'avez pas réussi un Test de Prière Accessible (+20).",
+    "range": [16, 20]
+  }, {
+    "name": "Vous abusez de ma patience",
+    "description": "Vous ne pouvez pas faire de Tests de Prière pour 1d10 Rounds.",
+    "range": [21, 25]
+  }, {
+    "name": "Vous ne comprenez pas ma volonté",
+    "description": "Vous subissez une pénalité de -10 à toute Compétence associée à votre divinité (telle que déterminée par le MJ) pour les 1d10+(Points de Péché) heures suivantes.",
+    "range": [26, 30]
+  }, {
+    "name": "Je trouve inquiétant votre manque de foi",
+    "description": "Vous ne pouvez pas faire de Tests de Prières pour 1d10+(Points de Péché) Rounds.",
+    "range": [31, 35]
+  }, {
+    "name": "Partagez ma douleur",
+    "description": "Vous souffrez de blessures de 1+(Points de Péché), ignorant le bonus d'Endurance et les PA. Tentez également un Test de Résistance Accessible (+20). Si vous échouez, gagnez un État Assommé.",
+    "range": [36, 40]
+  }, {
+    "name": "Votre cause est indigne",
+    "description": "Vos cibles gagnent un État À Terre. Toutes les Bénédictions ou Miracles de votre divinité qui les ciblent échouent automatiquement pour les prochains 1d10+(Points de Péché) jours.",
+    "range": [41, 45]
+  }, {
+    "name": "Cessez vos babillages",
+    "description": "Vous ne pouvez pas faire de Tests de Prière pour les prochains 2d10+(Points de Péché) rounds.",
+    "range": [46, 50]
+  }, {
+    "name": "Ressentez ma colère",
+    "description": "Vous souffrez de 1d10+(Points de Péché) Blessures. Tentez également un Test de Résistance Intermédiaire (+0). Si vous échouez, gagnez un État Assommé.",
+    "range": [51, 55]
+  }, {
+    "name": "Je ne vous aiderez pas",
+    "description": "Vous subissez une pénalité de -10 à une Compétence associée à votre divinité (telle que déterminée par le MJ) pour les prochains 1d10+(Points de Péché) jours .",
+    "range": [56, 60]
+  }, {
+    "name": "Blessures divines",
+    "description": "Gagnez 1+ (Points de péché) États Hémorragique.",
+    "range": [61, 65]
+  }, {
+    "name": "Frappé de cécité",
+    "description": "Gagnez l'État À Terre. Gagnez 1+(Points de Péché) État Aveugle, qui ne peut être éliminé qu'en passant un Test de Prière Intermédiaire (+0), avec succès en éliminant 1 + DR États Aveuglées.",
+    "range": [66, 70]
+  }, {
+    "name": "Qu'allez-vous sacrifier ?",
+    "description": "Vous souffrez 1d10+(Points de Péché) Blessures, ignorant le Bonus d'Endurance et les PA. Essayez également un Test de Résistance Complexe (-10). Si vous échouez, gagnez un État Assommé.",
+    "range": [71, 75]
+  }, {
+    "name": "Vous avez péché contre moi",
+    "description": "Votre dieu est extrêmement agacé et vous force à faire des Tests de Prière en guise d'Action pour les prochains 1d10+Points Péché Rounds en pénitence.",
+    "range": [76, 80]
+  }, {
+    "name": "Purifier la chair",
+    "description": "Vous souffrez de 2d10+(Points de Péché) Blessures, ignorant le bonus d'Endurance et les PA. Tentez également un Test de Résistance Difficile (-20). Si vous échouez, gagnez un État Assommé. Si vous échouez avec -4 DR ou moins, obtenez un État Inconscient qui dure un minimum de 1d10 Rounds.",
+    "range": [81, 87]
+  }, {
+    "name": "Interférence démoniaque",
+    "description": "Les Dieux des Ténèbres répondent à vos supplications au lieu de votre dieux. 1d10 Petits Démons apparaissent à moins de 2d10 mètres de votre position, et attaquent les cibles les plus proches.",
+    "range": [88, 88]
+  }, {
+    "name": "Redoutez ma colère",
+    "description": "Gagnez 1+(Points de Péché) en État Brisé.",
+    "range": [89, 95]
+  }, {
+    "name": "Faites pénitence",
+    "description": "Tu dois faire une pénitence.",
+    "range": [96, 100]
+  }, {
+    "name": "Châtiment",
+    "description": "Vous êtes réduit à 0 Blessures (si vous n'y êtes pas déjà) puis gagnez un État Inconscient, qui ne peut pas être enlevée tant que vous n'avez pas récupéré au moins 1 Blessures.",
+    "range": [101, 105]
+  }, {
+    "name": "Ne prononcez pas mon nom en vain",
+    "description": "Vous perdez les Talents Bénis et Invoqués pour les prochains 1d10+(Points de Péché) jours.",
+    "range": [106, 110]
+  }, {
+    "name": "Ne vous attachez pas aux futilités",
+    "description": "Toutes vos Objet sont retirées, vous laissant nue. Pour chaque pénitence que vous complétez, vous aurez un objet magique pris qui vous sera retourné, si vous avez un.",
+    "range": [111, 115]
+  }, {
+    "name": "Vous abusez de ma miséricorde",
+    "description": "Vous perdez les Talents d'invoquer et de Bénir pour les prochains 2d10+Jours de (Points de Péché).",
+    "range": [116, 120]
+  }, {
+    "name": "Contemplez votre cruauté",
+    "description": "Vous souffrez de visions atroces de tous vos échecs, qui semblent durer une éternité, mais qui sont terminés en un instant. Discutez avec votre MJ pour crée une psychologie personnalisée (voir page 190) qui reflète votre personnage qui vit l'expérience traumatisante.",
+    "range": [121, 125]
+  }, {
+    "name": "Tonerre et foudre",
+    "description": "Ton dieu te frappe. Vous êtes réduit à 0 Blessures (si vous n'y êtes pas déjà) et obtenez l'État Enflammé.",
+    "range": [126, 130]
+  }, {
+    "name": "Souffrez comme je souffre",
+    "description": "Vous gagnez 1+(Points de Péché) chaque matin, jusqu'à ce que vous ayez fait une pénitence.",
+    "range": [131, 135]
+  }, {
+    "name": "Excommunication",
+    "description": "Vous perdez les Talents Invoquer et Bénir jusqu'à ce que vous exécutiez 2 Pénitences ; la première Pénitence rend le Talent Bénir, et la seconde rend le Talent Invoquer. Tous les adeptes de votre dieu sont automatiquement conscients de votre situation ; tous les Tests pour interagir avec eux sont automatiquement Très Difficile (-30), et ne peuvent être modifiés positivement au-delà de cela.",
+    "range": [136, 140]
+  }, {
+    "name": "Prouvez votre valeur",
+    "description": "Un serviteur divin de votre divinité apparaît à moins de 100 mètres et attaque, intervient, réprimande ou similaire selon la nature du dieu offensé.",
+    "range": [141, 145]
+  }, {
+    "name": "Je te chasse",
+    "description": "Tu es abandonné par ton dieu. Vous perdez définitivement les Talents Bénis et Invoqués, et vous perdez toutes les Avancées de Prière. De plus, tous les adeptes de votre dieu sont automatiquement conscients de votre situation ; tous les Tests pour interagir avec eux sont automatiquement Très Difficile (-30), et ne peuvent être modifiés positivement au-delà.",
+    "range": [146, 150]
+  }, {
+    "name": "Appelé à rendre des comtes",
+    "description": "Tu es convoqué devant ton dieu pour faire face au jugement final. A moins d'avoir un Point de Destins, vous ne revenez jamais. Si vous dépensez un Point de Destin, vous êtes renvoyé à un point choisi par le MJ, et vous subissez également les effets de Je vous chasse.",
+    "range": [151, 151]
+  }]
+}

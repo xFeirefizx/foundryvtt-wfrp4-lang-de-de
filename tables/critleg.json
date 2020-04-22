@@ -1,0 +1,105 @@
+{
+  "name": "Blessures critiques aux jambes",
+  "die": "1d100",
+  "rows": [{
+    "name": "Orteil contusionné",
+    "wounds": "1",
+    "description": "Dans le feu de la bataille, vous vous cognez l'orteil. Réussissez un Test de Résistance Accessible (+20) ou subissez une pénalité de -10 à tous vos Tests d'Agilité jusqu'à la fin du prochain tour.",
+    "range": [1, 10]
+  }, {
+    "name": "Cheville tordue",
+    "wounds": "1",
+    "description": "Vous vous tordez la cheville, vous blessant au passage. Tous vos Tests d'Agilité subissent une pénalité de -10 pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds.",
+    "range": [11, 20]
+  }, {
+    "name": "Coupure mineure",
+    "wounds": "1",
+    "description": "Gagner 1 État Hémorragique.",
+    "range": [21, 25]
+  }, {
+    "name": "Perte d'équilibre",
+    "wounds": "1",
+    "description": "Dans le feu du combat, vous perdez l'équilibre. Réussissez un Test de Résistance Intermédiaire (+0) ou gagnez l'État A Terre.",
+    "range": [26, 30]
+  }, {
+    "name": "Coup à la cuisse",
+    "wounds": "2",
+    "description": "Un coup violent sur le haut de la cuisse. Gagnez 1 Etat Hémorragique et réussissez un Test de Résistance Accessible (+20) sous peine de trébucher et de gagner l'Etat A Terre.",
+    "range": [31, 35]
+  }, {
+    "name": "Cheville foulée",
+    "wounds": "2",
+    "description": "Vous vous foulez la cheville ; subissez un Traumatisme Déchirure musculaire (Mineur).",
+    "range": [36, 40]
+  }, {
+    "name": "Genou tordu",
+    "wounds": "2",
+    "description": "Votre genou pivote un peu trop loin. Vos Tests d'Agilité subissent une pénalité de -20 pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> rounds.",
+    "range": [41, 45]
+  }, {
+    "name": "Coupure à l'orteil",
+    "wounds": "2",
+    "description": "Gagnez 1 État Hémorragique. Une fois la rencontre terminée, effectuez un Test de Résistance Intermédiaire (+0). Sur un échec, vous perdez un orteil - Amputation (Accessible).",
+    "range": [46, 50]
+  }, {
+    "name": "Mauvaise coupure",
+    "wounds": "3",
+    "description": "Gagnez 2 États Hémorragique à cause de la profonde blessure au niveau de votre tibia. Réussissez un Test de Résistance Intermédiaire (+0) ou gagnez 1'Etat A Terre.",
+    "range": [51, 55]
+  }, {
+    "name": "Genou tordu",
+    "wounds": "3",
+    "description": "Vous vous tordez méchamment le genou en tentant d'éviter votre adversaire. Subissez un Traumatisme Déchirure musculaire (Majeur)",
+    "range": [56, 60]
+  }, {
+    "name": "Jambe charcutée",
+    "wounds": "3",
+    "description": "Blessure profonde au niveau de la hanche. Gagnez 2 Etats Hémorragique et 1 Etat A Terre, puis subissez un Traumatisme Fracture (Mineure). De plus, réussissez un Test de Résistance Difficile (-20) ou gagnez l'État Assommé à cause de la douleur.",
+    "range": [61, 65]
+  }, {
+    "name": "Cuisse lacérée",
+    "wounds": "3",
+    "description": "Gagnez 3 États Hémorragique alors que l'arme entaille profondément votre cuisse. Réussissez un Test de Résistance Intermédiaire (+0) ou gagnez 1 Etat A erre, Tant que vous n'aurez pas été soigné par Chirurgie afin de refermer la plaie, chaque fois que vous subirez des Dégâts à cette Jambe, gagnez 1 Etat Hémorragique.",
+    "range": [66, 70]
+  }, {
+    "name": "Tendon rompu",
+    "wounds": "4",
+    "description": "Gagnez les États À Terre et Assommé au moment ou votre tendon cède. Réussissez un Test de Résistance Difficile (-20) ou gagnez 1 Etat Inconscient. Votre jambe devient inutilisable (voir Membres Amputés). Subissez un Traumatisme Déchirure musculaire (Majeur).",
+    "range": [71, 75]
+  }, {
+    "name": "Entaille au tibia",
+    "wounds": "4",
+    "description": "L'arme passe à travers votre jambe au niveau du genou, touchant a la fois le tendon et l'os. Gagnez les États Assommé et À Terre. De plus, subissez les Traumatismes Déchirure musculaire (Majeur) et Fracture (Majeure).",
+    "range": [76, 80]
+  }, {
+    "name": "Genou cassé",
+    "wounds": "4",
+    "description": "Le coup atteint la rotule, la brisant en plusieurs morceaux. Vous gagnez 1 Etat  Hémorragique et 1 État À Terre, et subissez un Traumatisme Fracture (Majeure) alors que vous vous effondrez au sol, empoignant votre jambe abîmée.",
+    "range": [81, 85]
+  }, {
+    "name": "Genou démis",
+    "wounds": "4",
+    "description": "Votre genou se déboîte de son emplacement. Gagnez 1 Etat A Terre, réussissez un Test de Résistance Difficile (-20) ou gagnez l'État Assommé, qui ne pourra etre retiré qu'avec Aide Médicale. Après cette Aide Médicale, il est nécessaire de réussir un Test étendu de Guérison Accessible (+20) avec DR 6 afin de remettre le genou à sa place et récupérer l'usage de la jambe. Le Mouvement est réduit de moitié et les Tests impliquant cette jambe subissent un malus de -10 pendant <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> jours.",
+    "range": [86, 90]
+  }, {
+    "name": "Pied écrasé",
+    "wounds": "5",
+    "description": "Le coup explose votre pied. Effectuez un Test de Résistance Accessible (+20) ; sur un échec vous gagnez l'État À Terre et perdez un orteil, plus un orteil par DR en dessous de 0 - Amputation (Accessible). Gagnez 2 États Hémorragique. Si vous n'êtes pas soigné par Chirurgie au cours des <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> jours suivants, vous perdez votre pied",
+    "range": [91, 93]
+  }, {
+    "name": "Pied sectionné",
+    "wounds": "5",
+    "description": "Votre pied est sectionné au niveau de la cheville et atterrit <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d3</a> mètres plus loin dans une direction au hasard - Amputation (Difficile) (voir Dispersion). Vous gagnez les États suivants : 3 Hémorrasique, 2 États Assommé et 1 Etat A Terre.",
+    "range": [94, 96]
+  }, {
+    "name": "Tendon coupé",
+    "wounds": "5",
+    "description": "Un des tendons principaux à l'arrière de votre jambe est coupé, vous faisant hurler de douleur alors que votre jambe s'effondre sous le poids de votre corps. Vous gagnez 2 États Hémorragique, 2 États Assommé et 1 Etat A Terre. 11 ne vous reste plus qu'à contempler, avec horreur, votre jambe dont vous venez de perdre 1 usage - Amputation (Très Difficile)",
+    "range": [97, 99]
+  }, {
+    "name": "Bassin fracassé",
+    "wounds": "Mort",
+    "description": "Le coup fracasse votre bassin, coupant une jambe et atteignant la seconde. Vous mourez instantanément à cause du choc traumatique.",
+    "range": [100, 100]
+  }]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "WH4-fr-translation",
+  "title": "Traduction du module WH4 en Français.",
+  "description": "La traduction du module WH4.",
+  "version": "0.56",
+  "minimumCoreVersion" : "0.5.1",
+  "compatibleCoreVersion": "0.5.5",
+  "author": "LeRatierBretonnien",
+  "esmodules": ["babele-register.js"],
+  "scripts": [ ],
+  "styles": [],
+  "packs": [],
+
+  "languages": [{
+  	"lang": "fr",
+  	"name": "Français",
+  	"path": "fr.json"  	
+  }],
+  
+  "url": "https://gitlab.com/LeRatierBretonnien/foundryvtt-wh4-lang-fr-fr",
+  "manifest": "https://gitlab.com/LeRatierBretonnien/foundryvtt-wh4-lang-fr-fr/raw/master/module.json",   
+  "download": "https://gitlab.com/LeRatierBretonnien/foundryvtt-wh4-lang-fr-fr/-/archive/master/foundryvtt-wh4-lang-fr-fr-master.zip" 
+}

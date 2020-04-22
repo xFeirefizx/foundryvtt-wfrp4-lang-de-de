@@ -1,0 +1,52 @@
+{
+  "name": "Harmful Encounters",
+  "hide": true,
+  "die": "1d100",
+  "rows": [
+    {
+      "name": "Tiring Journey!",
+      "description": "The route is blocked. A bridge could be down, a river blocked or road flooded, or some other insurmountable obstacle. One Character makes an Average (+20) Outdoor Survival Test to find a good alternate route, otherwise everyone just pushes on, gaining a @Condition[Fatigued] Condition.",
+      "range": [1,10]
+    },
+    {
+      "name": "Thieves!",
+      "description": "Somehow the Characters get robbed. Perhaps it was someone travelling with them, sharing their campfire for the night or just a brief conversation on the road. They quickly lose sight of the thief, but during the arrival phase they catch a glimpse of them just ahead, ill gotten gains still in hand. Perhaps their purse fell afoul of the lithe fingers of Wolmar Rotte (page 49), or perhaps Wilhelm Kind (page 55) made off with one of their mounts?",
+      "range": [11,20]
+    },
+    {
+      "name": "Unfriendly Territory",
+      "description": "As the Characters travel, it becomes apparent to them that the region is home to bandits, monsters, or worse. They can risk moving through the territory, requiring a successful Challenging (+0) Stealth (Rural) Test from each Character, or be ambushed, or they can find another way around, gaining a @Condition[Fatigued] Condition from the arduous travel.",
+      "range": [21,30]
+    },
+    {
+      "name": "Poisoned Earth",
+      "description": "The region the Characters are travelling through has been fouled by old industry, war, or dark magic. On the surface, everything seems normal, but the rivers hold a sickness, the animals are tainted, and disease hangs in the air. Any Characters who attempt a Forage Endeavour, take goods from this region, or spend too much time here, will have to contend with poisons, sickness, and perhaps even Corruption.",
+      "range": [31,40]
+    },
+    {
+      "name": "Even Nature Hates You!",
+      "description": "The Characters find themselves in danger from nature. Deadly animals, lightning storms, disease, insects, you name it. This could result in violence, or in them receiving a Condition, or in a small but vicious encounter when they choose the wrong shepherd’s hut as a shelter. Consider the Creatures presented in The Beasts of the Reikland on page 314 of Warhammer Fantasy Roleplay.",
+      "range": [41,50]
+    },
+    {
+      "name": "Terrible Weather",
+      "description": "As the Characters set up camp, the sky turns dark, the wind picks up, and the weather changes unexpectedly in the night. For the next @Table[weather]{Weather} roll you make, add +40 (right click to apply). If this is the final stage of the journey, the terrible weather wracks their destination instead, leaving everyone there in a foul mood.",
+      "range": [51,70]
+    },
+    {
+      "name": "Damaged Essentials",
+      "description": "Weather due to a bumpy road, a lost pack or a ripped tent, some vital part of the Characters travelling gear is lost or destroyed. This could be a fine oilskin coat, a tent, or the cracked wheel of a cart. Repairs might be required, or the Character may have to brave the elements, risking Exposure.",
+      "range": [71,80]
+    },
+    {
+      "name": "Filthy Conditions!",
+      "description": "Whether an unfortunate campsite, or an infested inn, the Characters have all exposed themselves to the terrible @Compendium[wfrp4e.diseases.BC4QyBeYAiw8cRuM]{Packer's Pox!} See Warhammer Fantasy Roleplay page 187 for the rules on contracting this disease.",
+      "range": [81,90]
+    },
+    {
+      "name": "Bolted Mount!",
+      "description": "In the night, one of the Characters mounts bolts from the campsite or stable. A Character must gain a @Condition[Fatigued] Condition if they wish to recover the wayward beast, and additionally must Test for Exposure if searching by night in the Rain, a Downpour, Snow, or a Blizzard.",
+      "range": [91,100]
+    }
+  ]
+}

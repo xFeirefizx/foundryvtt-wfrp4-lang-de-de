@@ -1,0 +1,378 @@
+{
+  "name": "Couleur de cheveux aléatoire",
+  "columns": ["human", "dwarf", "halfling", "helf", "welf"],
+  "die": "2d10",
+  "hide": true,
+  "rows": [
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [18, 18],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Amande"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [3, 3]
+      },
+      "name": "Blond cendré"
+    },
+    {
+      "range":{
+        "human" : [18, 18],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [18, 18],
+        "welf" : []
+      },
+      "name": "Auburn"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [2, 2]
+      },
+      "name": "Bouleau argenté"
+    },
+    {
+      "range":{
+        "human" : [15, 17],
+        "dwarf" : [20, 20],
+        "halfling" : [],
+        "helf" : [20, 20],
+        "welf" : []
+      },
+      "name": "Noir"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [5, 7],
+        "welf" : []
+      },
+      "name": "Blond"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [20, 20]
+      },
+      "name": "Noir bleuté"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [12, 14],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Bronze"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [15, 17],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [8, 11]
+      },
+      "name": "Brun"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [8, 11],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Chataîgne"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [19, 19],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Chocolat"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [8, 11],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Cuivre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [12, 14],
+        "welf" : []
+      },
+      "name": "Blond cuivré"
+    },
+    {
+      "range":{
+        "human" : [12, 14],
+        "dwarf" : [18, 18],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [15, 17]
+      },
+      "name": "Marron foncé"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [19, 19]
+      },
+      "name": "Ebène"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [3, 3],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Paille"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [12, 14],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Gingembre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [5, 7],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Doré"
+    },
+    {
+      "range":{
+        "human" : [4, 7], 
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Blond doré"
+    },
+    {
+      "range":{
+        "human" : [20, 20],
+        "dwarf" : [3, 3],
+        "halfling" : [2, 2],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Gris"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [5, 7],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Miel"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [5, 7]
+      },
+      "name": "Blond miel"
+    },
+    {
+      "range":{
+        "human" : [8, 11],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Brun clair"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [20, 20],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Réglisse"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [12, 14]
+      },
+      "name": "Brun acajou"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [15, 17],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Moutarde"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [4, 4],
+        "halfling" : [],
+        "helf" : [4, 4],
+        "welf" : []
+      },
+      "name": "Blond pâle"
+    },
+    {
+      "range":{
+        "human" : [19, 19],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [19, 19],
+        "welf" : []
+      },
+      "name": "Rouge"
+    },
+    {
+      "range":{
+        "human" : [3, 3],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [15, 17],
+        "welf" : []
+      },
+      "name": "Blond ambré"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [19, 19],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Brun roux"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [4, 4]
+      },
+      "name": "Or rose"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [4, 4],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Roussâtre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [18, 18]
+      },
+      "name": "Sienne"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [2, 2],
+        "welf" : []
+      },
+      "name": "Argent"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [2, 2],
+        "halfling" : [],
+        "helf" : [3, 3],
+        "welf" : []
+      },
+      "name": "Blanc"
+    },
+    {
+      "range":{
+        "human" : [2, 2],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Blond blanc"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [8, 11],
+        "welf" : []
+      },
+      "name": "Blond intense"
+    }
+  ]
+}

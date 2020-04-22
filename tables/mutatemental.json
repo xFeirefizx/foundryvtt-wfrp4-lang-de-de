@@ -1,0 +1,85 @@
+{
+  "name": "Corruption mentale",
+  "die": "1d100",
+  "rows": [{
+    "name": "Atroces désirs",
+    "description": "-5 Sociabilité, -5 Force Mentale",
+    "range": [1, 5]
+  }, {
+    "name": "Bête intérieure",
+    "description": "+10 Force Mentale, -5 Sociabilité, -5 Intelligence",
+    "range": [6, 10]
+  }, {
+    "name": "Rêves chaotiques",
+    "description": "Gagnez 1 Etat Exténué pendant les deux premières heures de chaque journée.",
+    "range": [11, 15]
+  }, {
+    "name": "Fornication",
+    "description": "-5 Initiative, -5 Dextérité",
+    "range": [16, 20]
+  }, {
+    "name": "Imprévisible fantaisiste",
+    "description": "-5 Intelligence, -5 Force Mentale",
+    "range": [21, 25]
+  }, {
+    "name": "Terrible inquiétude",
+    "description": "-10 Force Mentale",
+    "range": [26, 30]
+  }, {
+    "name": "Pulsions de haines",
+    "description": "Sujet à 1 Hostilité (voir Psychologie) envers tous ceux qui ne sont pas de votre race.",
+    "range": [31, 35]
+  }, {
+    "name": "Coeur desséché",
+    "description": "+10 Force Mentale, -10 Sociabilitép",
+    "range": [36, 40]
+  }, {
+    "name": "Pensées envieuses",
+    "description": "-10 Sociabilité",
+    "range": [41, 45]
+  }, {
+    "name": "Esprit solitaire",
+    "description": "-10 aux Tests lorsque vous êtes seul",
+    "range": [46, 50]
+  }, {
+    "name": "Blocage mental",
+    "description": "-10 Intelligence",
+    "range": [51, 55]
+  }, {
+    "name": "Urgence profanatoire",
+    "description": "-10 Force Mentale, +10 Agilité",
+    "range": [56, 60]
+  }, {
+    "name": "Morale douteuse",
+    "description": "Gagnez 1 Etat Brisé si vous échouez à un Test dérivé de la Force Mentale.",
+    "range": [61, 65]
+  }, {
+    "name": "Esprit suspicieux",
+    "description": "-5 Initiative, -5 Intelligence",
+    "range": [66, 70]
+  }, {
+    "name": "Accro à l'adrénaline",
+    "description": "+10 Force Mentale, -10 Initiative",
+    "range": [71, 75]
+  }, {
+    "name": "Visions torturées",
+    "description": "-10 Initiative",
+    "range": [76, 80]
+  }, {
+    "name": "Totalement déséquilibré",
+    "description": "-20 Sociabilité, +10 Force Mentale",
+    "range": [81, 85]
+  }, {
+    "name": "Infinie malveillance",
+    "description": "-10 à tous les Tests qui ne sont pas destinés à blesser autrui. +10 à tous les Tests destinés à blesser autrui.",
+    "range": [86, 90]
+  }, {
+    "name": "Colère impie",
+    "description": "Sujet à Frénésie (voir Psychologie), +10 à la CC",
+    "range": [91, 95]
+  }, {
+    "name": "Affreusement nerveux",
+    "description": "+5 Agilité, -5 Sociabilité",
+    "range": [96, 100]
+  }]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Talents aléatoires",
+  "die" : "1d32",
+  "rows": [{
+    "name": "Sens aiguisés (Au choix)",
+    "range": [1, 1]
+  }, {
+    "name": "Ambidextre",
+    "range": [2, 2]
+  }, {
+    "name": "Affinité avec les Animaux",
+    "range": [3, 3]
+  }, {
+    "name": "Artiste",
+    "range": [4, 4]
+  }, {
+    "name": "Attirant",
+    "range": [5, 5]
+  }, {
+    "name": "Imperturbable",
+    "range": [6, 6]
+  }, {
+    "name": "Maitre Artisan (au choix)",
+    "range": [7, 7]
+  }, {
+    "name": "Fuite!",
+    "range": [8, 8]
+  }, {
+    "name": "Dur à Cuire",
+    "range": [9, 9]
+  }, {
+    "name": "Reflexes Foudroyants",
+    "range": [10, 10]
+  }, {
+    "name": "Linguistique",
+    "range": [11, 11]
+  }, {
+    "name": "Chanceux",
+    "range": [12, 12]
+  }, {
+    "name": "Tireur de Précision",
+    "range": [13, 13]
+  }, {
+    "name": "Imitation",
+    "range": [14, 14]
+  }, {
+    "name": "Vision Nocturne",
+    "range": [15, 15]
+  }, {
+    "name": "Doigts de Fée",
+    "range": [16, 16]
+  }, {
+    "name": "Noblesse",
+    "range": [17, 17]
+  }, {
+    "name": "Orientation",
+    "range": [18, 18]
+  }, {
+    "name": "Oreille Absolue",
+    "range": [19, 19]
+  }, {
+    "name": "Ame Pure",
+    "range": [20, 20]
+  }, {
+    "name": "Lire/Ecrire",
+    "range": [21, 21]
+  }, {
+    "name": "Résistance (au choix)",
+    "range": [22, 22]
+  }, {
+    "name": "Perspicace",
+    "range": [23, 23]
+  }, {
+    "name": "Vivacité",
+    "range": [24, 24]
+  }, {
+    "name": "Sixième Sens",
+    "range": [25, 25]
+  }, {
+    "name": "Bonnes Jambes",
+    "range": [26, 26]
+  }, {
+    "name": "Costaud",
+    "range": [27, 27]
+  }, {
+    "name": "Affable",
+    "range": [28, 28]
+  }, {
+    "name": "Doué en Calcul",
+    "range": [29, 29]
+  }, {
+    "name": "Très Résistant",
+    "range": [30, 30]
+  }, {
+    "name": "Très Fort",
+    "range": [31, 31]
+  }, {
+    "name": "Guerrier Né",
+    "range": [32, 32]
+  }]
+}

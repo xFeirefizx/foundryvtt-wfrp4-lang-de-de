@@ -1,0 +1,57 @@
+{
+  "die": "1d100",
+  "hide": true,
+  "name": "Coincidental Encounters",
+  "rows": [
+    {
+      "description": "Something feels off about the day’s travel — the road is curiously quiet, local game is scant, what few travellers are met give sideways glances before scampering on. Something is wrong… Or maybe it’s just your imagination.",
+      "name": "Suspicious Surroundings",
+      "range": [1,10]
+    },
+    {
+      "description": "The Characters come across the site of a recent battle. Was it a massacre by Greenskins, a highway robbery, a skirmish with bandits, or something worse? Few scavengers have picked over the bodies, yet, and there is much left to take… But how far away are the culprits, and how will they react to the Characters picking over their leavings.",
+      "name": "Battlefield",
+      "range": [11,20]
+    },
+    {
+      "description": "The Characters pass by a procession of huddled and down-trodden individuals. Are they refugees, penitents, lepers, or something more insidious? Whatever the nature of the main group, they may hide additional threats",
+      "name": "Huddled Masses",
+      "range": [21,30]
+    },
+    {
+      "description": "A rival or other source of annoyance plagues the Characters on their journey. Play this for laughs but make them genuinely annoying and a recurring bane of the Characters’ lives. Perhaps Delberz Trötte (page 54) just can’t seem to stop dragging the Characters into another get rich quick scheme.",
+      "name": "Not Them Again!",
+      "range": [31,40]
+    },
+    {
+      "description": "Something out of the ordinary catches the Characters’ eyes — a sumptuous and inviting coaching inn in the middle of nowhere, an unattended campfire with a roasting and mouth-watering boar, the sounds of a travelling circus troupe. Do the Characters take a detour from their journey to investigate and indulge? What hidden dangers surround these temptations?",
+      "name": "Temptations on the Road",
+      "range": [41,50]
+    },
+    {
+      "description": "The Characters manage to wrong a fellow traveller on the road — be it a perceived slight, an accidental collision, or an intentional insult. Regardless, the traveller chooses to spread ill and potentially untrue rumours about the group at their destination.",
+      "name": "Bad Influence!",
+      "range": [51,60]
+    },
+    {
+      "description": "A local noble, a business interest, or a 'private enterprise' has established a toll ahead of the Characters. Do they pay the extortionate fees — in proportion to their Social Status — or do they attempt to evade the authorities? See Toll Houses (page 42) for more.",
+      "name": "Toll Road",
+      "range": [61,70]
+    },
+    {
+      "description": "There is something here that shouldn’t be — a black stone obelisk in the middle of a verdant forest, strange runes carved on the trunks of trees, a shimmering cold light just beyond the campfire’s glow. Whatever it is, others have seen it too, and rumours abound at their destination.",
+      "name": "The Thing That Should Not Be",
+      "range": [71,80]
+    },
+    {
+      "description": "The gods send the Characters a message — a revelation about the past, a reading on the present, or a warning of the future. But the gods do not speak as mortals, and instead work signs in nature and circumstance. A raven with a scorpion twitching in its beak. A stag speared through the sternum by a flowering branch. A Lore (Theology) Test can be made to gather more information, but the symbols should be obvious to all citizens of the Empire.",
+      "name": "Providence",
+      "range": [80,90]
+    },
+    {
+      "description": "Another traveller, or group of travellers, needs help from the Characters. Perhaps their cart has broken down, or they are being harassed by wolves. If the Characters dean to escort them to their destination, they may express their gratitude on arriving safely.",
+      "name": "A Friend in Need",
+      "range": [91,100]
+    }
+  ]
+}

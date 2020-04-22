@@ -1,0 +1,31 @@
+{
+  "name": "Espèces",
+  "die" : "1d100",
+  "rows": [
+    {
+      "name": "Humain",
+      "value": "human",
+      "range": [1, 90]
+    },
+    {
+      "name": "Halfling",
+      "value": "halfling",
+      "range": [91, 94]
+    },
+    {
+      "name": "Nain",
+      "value": "dwarf",
+      "range": [95, 98]
+    },
+    {
+      "name": "Haut Elfe",
+      "value": "helf",
+      "range": [99, 99]
+    },
+    {
+      "name": "Elfe Sylvain",
+      "value": "welf",
+      "range": [100, 100]
+    }
+  ]
+}

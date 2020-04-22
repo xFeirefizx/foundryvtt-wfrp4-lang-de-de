@@ -1,0 +1,358 @@
+{
+  "name": "Couleur d'yeux aléatoire",
+  "columns": ["human", "dwarf", "halfling", "helf", "welf"],
+  "die": "2d10",
+  "hide": true,
+  "rows": [
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [15, 17],
+        "welf" : []
+      },
+      "name": "Ambre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [3, 3],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Améthyste"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [4, 4],
+        "welf" : []
+      },
+      "name": "Aigue-marine"
+    },
+    {
+      "range":{
+        "human" : [10, 20],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [5, 7],
+        "welf" : []
+      },
+      "name": "Noir"
+    },
+    {
+      "range":{
+        "human" : [5, 7],
+        "dwarf" : [5, 7],
+        "halfling" : [5, 7],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Bleu"
+    },
+    {
+      "range":{
+        "human" : [15, 17],
+        "dwarf" : [],
+        "halfling" : [15, 17],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Brun"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [8, 14]
+      },
+      "name": "Chataîgne"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [19, 19],
+        "welf" : []
+      },
+      "name": "Citrine"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [2, 2],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Charbon"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [19, 19],
+        "halfling" : [18, 18],
+        "helf" : [19, 19],
+        "welf" : []
+      },
+      "name": "Cuivre"
+    },
+    {
+      "range":{
+        "human" : [19, 19],
+        "dwarf" : [12, 14],
+        "halfling" : [19, 20],
+        "helf" : [],
+        "welf" : [15, 17]
+      },
+      "name": "Marron foncé"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [8, 11],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Marron terre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Marron terre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [12, 14],
+        "welf" : []
+      },
+      "name": "Emeraude"
+    },
+    {
+      "range":{
+        "human" : [2, 2],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Choix libre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [20, 20],
+        "halfling" : [],
+        "helf" : [20, 20],
+        "welf" : []
+      },
+      "name": "Doré"
+    },
+    {
+      "range":{
+        "human" : [3, 3],
+        "dwarf" : [18, 18],
+        "halfling" : [8, 11],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Vert"
+    },
+    {
+      "range":{
+        "human" : [12, 14],
+        "dwarf" : [],
+        "halfling" : [3, 3],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Gris"
+    },
+    {
+      "range":{
+        "human" : [18, 18],
+        "dwarf" : [15, 17],
+        "halfling" : [12, 14],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Noisette"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [2, 2]
+      },
+      "name": "Ivoire"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [4, 4]
+      },
+      "name": "Vert lierre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [2, 2],
+        "welf" : []
+      },
+      "name": "Jais"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [3, 3],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Plomb"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [2, 2],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Gris clair"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [5, 7]
+      },
+      "name": "Vert mousse"
+    },
+    {
+      "range":{
+        "human" : [4, 4],
+        "dwarf" : [],
+        "halfling" : [4, 4],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Bleu pale"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Marron clair"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Vert clair"
+    },
+    {
+      "range":{
+        "human" : [8, 11],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Gris clair"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [19, 19]
+      },
+      "name": "Chatain clair"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [5, 7],
+        "welf" : []
+      },
+      "name": "Saphir"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [4, 4],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : []
+      },
+      "name": "Acier"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [18, 18]
+      },
+      "name": "Ocre"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [8, 11],
+        "welf" : []
+      },
+      "name": "Turquoise"
+    },
+    {
+      "range":{
+        "human" : [],
+        "dwarf" : [],
+        "halfling" : [],
+        "helf" : [],
+        "welf" : [20, 20]
+      },
+      "name": "Violet"
+    }
+  ]
+}

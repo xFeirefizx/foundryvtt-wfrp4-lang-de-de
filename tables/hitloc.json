@@ -1,0 +1,29 @@
+{
+  "name": "Localisation",
+  "die": "1d100",
+  "rows": [{
+    "description": "Tête",
+    "result": "head",
+    "range": [1, 9]
+  }, {
+    "description": "Bras Gauche",
+    "result": "lArm",
+    "range": [10, 24]
+  }, {
+    "description": "Bras Droit",
+    "result": "rArm",
+    "range": [25, 44]
+  }, {
+    "description": "Corps",
+    "result": "body",
+    "range": [45, 79]
+  }, {
+    "description": "Jambe Gauche",
+    "result": "lLeg",
+    "range": [80, 89]
+  }, {
+    "description": "Jambe Droite",
+    "result": "rLeg",
+    "range": [90, 100]
+  }]
+}

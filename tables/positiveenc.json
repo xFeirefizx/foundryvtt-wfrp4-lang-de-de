@@ -1,0 +1,42 @@
+{
+  "name": "Positive Encounters",
+  "hide": true,
+  "die": "1d100",
+  "rows": [
+    {
+      "name": "Good Company",
+      "description": "A chance encounter on the road with other travellers serves to remind the Characters that there are still decent folks abroad. Of course, if they themselves are not decent people, they may look to take advantage of the situation.",
+      "range": [1,25]
+    },
+    {
+      "name": "Now That’s Useful!",
+      "description": "The Characters find out something relevant to their adventure — gossip, a lost message, a sight they weren’t meant to witness, or similar.",
+      "range": [26,45]
+    },
+    {
+      "name": "Wonderful Accommodation",
+      "description": "The Characters pass by a comfortable coaching inn, and if they’re willing to spend a few coins, they find their minds at ease, their bellies full, and their bodies healed of any lingering Conditions.",
+      "range": [46,60]
+    },
+    {
+      "name": "Idle Time",
+      "description": "The journey is so relaxed and unhindered that the Characters find themselves with spare time on their hands. Each Character may perform an extra Travel Endeavour.",
+      "range": [61,75]
+    },
+    {
+      "name": "A Kind Word",
+      "description": "A simple act of goodwill on the part of the Characters leaves a fellow traveller delighted — good word of the Characters deed spreads to their destination, and at least one NPC they meet there will have a good opinion of the Characters.",
+      "range": [76,90]
+    },
+    {
+      "name": "Short Cut!",
+      "description": "Rechecking maps or soliciting local advice, the Characters discover a shortcut through the region. They may skip the next Stage of their journey.",
+      "range": [91,95]
+    },
+    {
+      "name": "Restful Journey",
+      "description": "The journey is blessedly uneventful, the Characters get good rest, the scenery is particularly inspiring, and perhaps they meet an NPC healer or helpful priest. The Characters can heal all Wounds and recover all Fatigued Conditions.",
+      "range": [96,100]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Fixations",
+  "die": "2d10",
+  "rows": [{
+    "description": "Inanimate Objects",
+    "range": [2,2]
+  }, {
+    "description": "Poverty",
+    "range": [3,3]
+  }, {
+    "description": "Fire",
+    "range": [4,4]
+  }, {
+    "description": "Figures/Symbols of War",
+    "range": [5,5]
+  }, {
+    "description": "Figures/Symbols of Authority",
+    "range": [6,6]
+  }, {
+    "description": "Figures/Symbols of Religion",
+    "range": [7,7]
+  } ,{
+    "description": "Monsters",
+    "range": [8,8]
+  }, {
+    "description": "Mutants",
+    "range": [9,9]
+  }, {
+    "description": "Halflings",
+    "range": [10,10]
+  }, {
+    "description": "Humans",
+    "range": [11,11]
+  }, {
+    "description": "Dwarfs",
+    "range": [12,12]
+  }, {
+    "description": "Elves",
+    "range": [13,13]
+  }, {
+    "description": "Wild Animals",
+    "range": [14,14]
+  }, {
+    "description": "Domestic Animals",
+    "range": [15,15]
+  }, {
+    "description": "Magic",
+    "range": [16,16]
+  }, {
+    "description": "Sickness",
+    "range": [17,17]
+  }, {
+    "description": "Water",
+    "range": [18,18]
+  }, {
+    "description": "Affluence",
+    "range": [19,19]
+  }, {
+    "description": "Happiness",
+    "range": [20,20]
+  }]
+}

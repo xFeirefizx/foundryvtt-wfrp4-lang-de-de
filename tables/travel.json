@@ -1,0 +1,45 @@
+{
+  "name": "Table de Voyage",
+  "die": "1d10",
+  "rows": [{
+    "name": "Voyage reposant",
+    "description": "Le voyage se déroule sans heurts, les Personnages se reposent bien, le paysage est particulièrement inspirant et ils rencontrent peut-être un PNJ guérisseur ou prêtre serviable. Les Personnages peuvent guérir toutes les Blessures et retirer tous les Etats <em>Exténué</em>.",
+    "range": [1, 1]
+  }, {
+    "name": "Quelque chose d'intéressant",
+    "description": "une rencontre fortuite sur la route avec d'autres voyageurs, une auberge de qualité ou un sanctuaire, ou encore de vieilles ruines étranges constituent une merveilleuse histoire à partager.",
+    "range": [2, 2]
+  }, {
+    "name": "A présent, c'est utile!",
+    "description": "les Personnages découvrent quelque chose d'intéressant dans leur aventure - un ragot, un message perdu, un évènement dont ils n'étaient pas censés être témoins, ou autre.",
+    "range": [3, 3]
+  }, {
+    "name": "Voyage éreintant !",
+    "description": "La route est bloquée. Un pont peut être effonré, une rivière bloquée ou une route inondée, ou quelque autre obstacle insurmontable. Un Personnage effectue un <strong>Test de Survie en extérieur Accessible(+20)</strong> pour trouver un bon itinéraire de substitution, sinon tout le monde arrive un jour plus tard avec un Etat <em>Exténué</em>.",
+    "range": [4, 4]
+  }, {
+    "name": "Poursuivis !",
+    "description": "un ennemi retrouve la trace des Personnages et il doit être géré ou mis sur une fausse poste avant qu'ils n'atteignent leur destination. S'ils n'ont pas encore d'ennemi désigné, jetez un coup d'oeil dans le passé des Personnages - et il y aura bien quelque chose. La confrontation pourrait être violente à moins qu'ils ne s'en sortent en parlant, et semer leur poursuivant pourrait rajouter quelques jour à leur voyage",
+    "range": [5, 5]
+  }, {
+    "name": "Voleurs!",
+    "description": "les Personnages se font dévaliser. Peut-être par quelqu'un voyageant avec eux, partageant leur campement pour la nuit ou juste lors d'une brève conversation sur la route. Est-ce qu'ils cessent de rechercher leurs affaires ou bien considèrent-ils ce méfait comme faisant partie des risques d'une vie aventureuse ?",
+    "range": [6, 6]
+  }, {
+    "name": "Pas encore!",
+    "description": "un rival ou une autre source de contrariété menace les Personnages pendant leur voyage. Jouez cela pour rire, mais il faudrait que ce soit particulièrement ennuyeux et un fléau mineu réurent dans la vie des Personnages. Pas assez pour tomber dans la violence, mais pas loin. Il peut s'agit d'un membre d'une guilde rivale obsédé par le fait de \"surpasser\" un membre du groupe, ou un pasager de diligence avec un comportement particulièrement irritant.",
+    "range": [7, 7]
+  }, {
+    "name": "Mauvaise influence!",
+    "description": "Les Personnages rencontrent quelqu'un qui semble vouloir les aider, mais ses intentions sont sinistres. Ce type malodorant, qui connaît un racourci à la traver le Jardin de Morr, insiste pour que vous passiez devant. La charmante vieille aristocrate qui vous invite à rester à diner dans sa demeure ancestrale. La femme débraillée qui  sait où trouver les \"meilleurs\" champignons. Amusez-vous !",
+    "range": [8, 8]
+  }, {
+    "name": "Même la nature vous déteste!",
+    "description": "les Personnages sont menacés par la nature. Des animaux mortels, des orages, des maladies, des insectes, etc. Cela pourrait mener à la violence, ou à recevoir un Etat (à voir), ou à une petite, mais désagréable, rencontre parce qu'ils choisissent la mauvaise cabane de berger comme refuge.",
+    "range": [9, 9]
+  }, {
+    "name": "Attaqués!",
+    "description": "les Personnages sont attaqués pendant leur voyage. Il peut s'agit d'une rencontre malheureuse dans la zone qu'ils traversent (des hommes-bêtes dans la forêt profonde, par exemple) ou quelqe chose prévu par leurs adversaires (des voyous engagés pour empêcher les Personnages d'atteindre leur destination). S'ils ratent un <strong>Test de Perception Accessible (+20)</strong>, ils peuvent même tomber dans une embuscade.",
+    "range": [10, 10]
+  }]
+}

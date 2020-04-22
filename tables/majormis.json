@@ -1,0 +1,85 @@
+{
+  "name": "Tableau des Incentations Imparfaites Majeures",
+  "die": "1d100",
+  "rows": [{
+    "name": "Voix fantomatique",
+    "description": "Toutes les personnes dans un rayon de (Force Mentale) mètres entendent de sombres murmures envoûtants émanant du Royaume du Choas. Toutes les créatures douées de conscience doivent réussir un Test de Calme Accessible (+20) ou gagner 1 Point de Corruption.",
+    "range": [1, 5]
+  }, {
+    "name": "Regard maudit",
+    "description": "Vos yeux prennent une couleur anormale associée à votre Domaine pendant 1d10 heures. Tant que vos yeux gardent cette couleur, vous possédez un État Aveuglé qui ne peut être retiré d'aucune façon.",
+    "range": [6, 10]
+  }, {
+    "name": "Choc aethyrique",
+    "description": "Vous subissez <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> Blessures qui ignorent le Bonus d'Endurance et les PA. Réussissez un Test de Résistance Accessible (+20) ou gagnez également 1 État Assommé.",
+    "range": [11, 15]
+  }, {
+    "name": "Marche de la mort",
+    "description": "Vos pas sèment la mort sur leur passage. Pour les 1d10 prochaines heures, toutes lesp lantes vivantes près de vous fanent et meurent.",
+    "range": [16, 20]
+  }, {
+    "name": "Rébellion intestinale",
+    "description": "Vos intestins deviennent incontrôlables et vous vous souillez. Gagnez 1 État Exténué qui ne peut être retiré tant que vous ne pouvez pas changer de vêtement et vous nettoyer",
+    "range": [21, 25]
+  }, {
+    "name": "Feu de l'âme",
+    "description": "Gagnez 1 État Enflammé, alors que vous êtes enveloppé de flammes impies de la couleur associée à votre Domaine.",
+    "range": [26, 30]
+  }, {
+    "name": "Propos ésotériques",
+    "description": "Vous jacassez de façon inintelligible pendant 1d10 rounds. Pendant ce temps, vous ne pouvez pas communiquer verbalement, ni effectuer de Test d'Incantation, mais vous pouvez tout de même agir normalement.",
+    "range": [31, 35]
+  }, {
+    "name": "Essaim",
+    "description": "Vous êtes engagés par une nuée de vermines (rats, araignées géantes, serpents ésotériques, etc.) à la discrétion du MJ. Utilisez les profils standard pour le type de créature concerné, en ajoutant le Trait de créature Nuée. Après 1d10 rounds, si elle n'est pas détruite, la nuée bat en retraite.",
+    "range": [36, 40]
+  }, {
+    "name": "Poupée de chiffon",
+    "description": "Vous êtes projeté à 1d10 mètres dans les airs dans une direction aléatoire, subissant 1d10 Points de Blessure à l'atterrissage qui ignorent les PA, et recevez l'État À Terre.",
+    "range": [41, 45]
+  }, {
+    "name": "Membre gelé",
+    "description": "L'un de vos membres (déterminé au hasard) gèle sur place pendant 1d10 heures, il est inutile comme si il avait été Amputé.",
+    "range": [46, 50]
+  }, {
+    "name": "Vue assombrie",
+    "description": "Vous perdez le bénéfice du Talent Seconde vue pendant 1d10 heures. Les Tests de Focalisation subissent également une pénalité de -20 pour la durée de l'effet.",
+    "range": [51, 55]
+  }, {
+    "name": "Clairevoyance chaotique",
+    "description": "Gagnez une réserve bonus de 1d10 Point de Chance (qui peut dépasser votre limite naturelle). Chaque fois que vous dépensez un de ces points, gagnez 1 Point de Corruption. Tous les Points restant à la fin de la session sont perdus.",
+    "range": [56, 60]
+  }, {
+    "name": "Lévitation",
+    "description": "Vous êtes soulevé par les Vents de Magie, flottant 1d10 mètres au-dessus du sol pendant 1d10 minutes. Les autres personnages peuvent vous déplacer de force, et vous pouvez avançer à l'aide de Sorts, d'ailes ou autre, mais vous revenez continuellement à votre position de lévitation lorsqu'on vous laisse tranquille.",
+    "range": [61, 65]
+  }, {
+    "name": "Régurgitation",
+    "description": "Vous vomissez de façon incontrôlable bien plus de rejets que votre corps ne peut normallement en contenir. Gagnez l'État Assommé, qui dure 1d10 rounds.",
+    "range": [66, 70]
+  }, {
+    "name": "Secousse du Chaos",
+    "description": "Toutes les créatures dans un rayon de 1d100 mètres doivent réussir un Test d'Athlétisme Accessible (+20) ou gagner l'État À Terre.",
+    "range": [71, 75]
+  }, {
+    "name": "Coeur du traître",
+    "description": "Les Sombres Dieux vous incitent à commettre une immonde perfidie. Si vous attaquez ou trahissez un allié dans toute la mesure de vos capacités, regagnez tous vos Points de Chance. Si vous faites perdre 1 Point de Destin à un autre Personnage, gagnez 1 Point de Destin.",
+    "range": [76, 80]
+  }, {
+    "name": "Terrible affaiblissement",
+    "description": "Gagnez 1 point de Corruption, 1 État À Terre et 1 État Exténué.",
+    "range": [81, 85]
+  }, {
+    "name": "Puanteur infernale",
+    "description": "VOus sentez vraiment mauvais ! Vous gagnez le Trait de créature Perturbant, et probablement l'inimité de toute personne ayant de l'odorat. Cet effet dure 1d10 heures.",
+    "range": [86, 90]
+  }, {
+    "name": "Drain de puissance",
+    "description": "Vous êtes incapable d'utiliser le Talent vous permettant de lancer des Sorts, pendant 1d10 minutes.",
+    "range": [91, 95]
+  }, {
+    "name": "Contre-réaction aethyrique",
+    "description": "Quiconque situé dans un rayon en mètres égal à votre Bonus de Force Mentale, ami ou ennemi, subit 1d10 Points de Blessure qui ignore le Bonus d'ENdurance et les PA, et reçoit 1 État À Terre. S'il n'y a aucune cible à portée, la magie n'a nulle part où aller, donc votre tête explose, vous tuant instantanément.",
+    "range": [96, 100]
+  }]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Corruption physique",
+  "die": "1d100",
+  "rows": [{
+    "name": "Membres d'animaux",
+    "description": "+1 Mouvement",
+    "range": [1, 5]
+  }, {
+    "name": "Corpulent",
+    "description": "-1 Mouvement, +5 Force, +5 Endurance",
+    "range": [6, 10]
+  }, {
+    "name": "Doigts distendus",
+    "description": "+10 Dextérité",
+    "range": [11, 15]
+  }, {
+    "name": "Emacié",
+    "description": "-10 Force, +5 Agilité",
+    "range": [16, 20]
+  }, {
+    "name": "OEil énorme",
+    "description": "+10 aux Tests de Perception impliquant la vue",
+    "range": [21, 25]
+  }, {
+    "name": "Articulation supp. aux jambes",
+    "description": "+5 Agilité",
+    "range": [26, 30]
+  }, {
+    "name": "Bouche supplémentaire",
+    "description": "Effectuer un lancer sur le Tableau des Localisations afin de déterminer où cette bouche apparaît",
+    "range": [31, 35]
+  }, {
+    "name": "Tentacule épaissee",
+    "description": "Vous gagnez le Trait de Créature Tentacule. Voir page 343",
+    "range": [36, 40]
+  }, {
+    "name": "Peau brillante",
+    "description": "Produit une lumière équivalente à celle d'une bougie.",
+    "range": [41, 45]
+  }, {
+    "name": "Beauté surnaturelle",
+    "description": "+ 10 Sociabilité. Vous ne gardez jamais de cicatrice.",
+    "range": [46, 50]
+  }, {
+    "name": "Visage inversé",
+    "description": "-20 aux Tests de Sociabilité",
+    "range": [51, 55]
+  }, {
+    "name": "Peau d'acier",
+    "description": "+2 PA à toutes les Localisations, -10 Agilité",
+    "range": [56, 60]
+  }, {
+    "name": "Langue pendante",
+    "description": "-10 à tous les Tests de Langue lorsque vous parlez.",
+    "range": [61, 65]
+  }, {
+    "name": "Plumes éparses",
+    "description": "Effectuez deux lancers sur le Tableau des Localisations pour déterminer où ces plumes apparaissent.",
+    "range": [66, 70]
+  }, {
+    "name": "Court sur pattes",
+    "description": "-1 Mouvement",
+    "range": [71, 75]
+  }, {
+    "name": "Ecailles épineuses",
+    "description": "+1 PA à toutes les Localisationss",
+    "range": [76, 80]
+  }, {
+    "name": "Cornes asymétriques",
+    "description": "+ 1 PA à la Tête. Compte comme une Arme de Créature dont le nombre de Dégâts est égal à votre Bonus de Force (voir page 338)",
+    "range": [81, 85]
+  }, {
+    "name": "Suintement de pus",
+    "description": "Effectuez un lancer sur le Tableau des Localisations pour déterminer l'origine du suintement",
+    "range": [86, 90]
+  }, {
+    "name": "Groin poilu",
+    "description": "+10 Pistage",
+    "range": [91, 95]
+  }, {
+    "name": "Choix du M]",
+    "description": "Le MJ choisit une mutation ou un Trait de Créature. Voir page 340.",
+    "range": [96, 100]
+  }]
+}

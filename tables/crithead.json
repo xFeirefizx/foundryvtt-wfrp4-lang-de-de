@@ -1,0 +1,105 @@
+{
+  "name": "Blessures critiques à la tête",
+  "die": "1d100",
+  "rows": [{
+    "name": "Blessure spectaculaire",
+    "wounds": "1",
+    "description": "Une fine entaille qui va du front jusqu'à la joue. Gagnez 1 Etat Hémorragique. Une fois que la blessure est guérie, l'impressionnante cicatrice vous permet d'obtenir DR +1 à certains Tests sociaux.",
+    "range": [1, 10]
+  }, {
+    "name": "Coupure mineure",
+    "wounds": "1",
+    "description": "Le coup vous entaille la joue et le sang dégouline partout. Gagnez 1 État Hémorragique.",
+    "range": [11, 20]
+  }, {
+    "name": "Vision brouillée",
+    "wounds": "1",
+    "description": "Le coup vous touche à l'orbite de l'oeil. Gagnez 1 Etat Aveuglé.",
+    "range": [21, 25]
+  }, {
+    "name": "Frappe à l'oreille",
+    "wounds": "1",
+    "description": "Un coup à l'oreille provoque un bruit ignoble qui bourdonne sans s'arrêter. Vous gagnez 1 Etat Assourdi.",
+    "range": [26, 30]
+  }, {
+    "name": "Coup percutant",
+    "wounds": "2",
+    "description": "Le sang obscurcit votre vision, et vous percevez des points blancs et des flashs de lumière. Vous obtenez 1 État Assommé.",
+    "range": [31, 35]
+  }, {
+    "name": "Cécité temporaire",
+    "wounds": "2",
+    "description": "Un coup massif au niveau des yeux, très douloureux et qui fait pleurer. Gagnez 2 Etats Aveuglé.",
+    "range": [36, 40]
+  }, {
+    "name": "Oreille tranchée",
+    "wounds": "2",
+    "description": "Vous recevez un coup très violent sur le côté de la tête qui vous entaille profondément l'oreille. Gagnez 2 Etats Assourdi et 1 État Hémorragique.",
+    "range": [41, 45]
+  }, {
+    "name": "En plein front",
+    "wounds": "2",
+    "description": "Un coup percutant vous atteint en plein front. Gagnez 2 États Hémorragique et 1 Etat Aveuglé qui ne peut pas être retiré tant que tous les États Hémorragique n'ont pas été éliminés.",
+    "range": [46, 50]
+  }, {
+    "name": "Mâchoire fracturée",
+    "wounds": "3",
+    "description": "Le coup reçu vous fracture la mâchoire avec un bruit dégoûtant. Les vagues de douleur déferlent instantanément. Gagnez 2 États Assommé. Subissez le traumatisme Fracture (Mineure).",
+    "range": [51, 55]
+  }, {
+    "name": "Blessure majeure à l'oeil",
+    "wounds": "3",
+    "description": "Le coup lézarde votre orbite. Gagnez l'État Hémorragique. Gagnez également l'État Aveuglé qui ne pourra être soigné que lorsqu'on vous appliquera Aide Médicale.",
+    "range": [56, 60]
+  }, {
+    "name": "Blessure majeure à l'oreille",
+    "wounds": "3",
+    "description": "Le coup endommage votre oreille, causant une perte auditive permanente. Vous subissez une pénalité de -20 à tout Test ayant un rapport avec l'audition. Si vous tombez une seconde fois sur cette blessure, vous perdez totalement l'audition, car votre deuxième oreille devient elle aussi silencieuse. Ne peut être guéri que par la magie.",
+    "range": [61, 65]
+  }, {
+    "name": "Nez cassé",
+    "wounds": "3",
+    "description": "Un coup violent porté au centre de votre visage déverse des flots de sang. Gagnez 2 Etats Hémorragique. Réussissez un Test de Résistance Intermédiaire (+0), ou gagnez 1 Etat Assommé. Une fois cette blessure guérie, gagnez DR +1/-1 aux Tests sociaux, en fonction du contexte, jusqu'à ce que Chirurgie soit utilisée sur le nez pour le réparer.",
+    "range": [66, 70]
+  }, {
+    "name": "Mâchoire cassée",
+    "wounds": "4",
+    "description": "Le coup qui vous brise la mâchoire est accompagné d'un bruit ignoble. Gagnez 3 Etats Assommé. Réussissez un Test de Résistance Intermédiaire (+0) ou gagnez l'État Assommé. Subissez le Traumatisme Fracture (Majeure).",
+    "range": [71, 75]
+  }, {
+    "name": "Commotion cérébrale",
+    "wounds": "4",
+    "description": "Votre cerveau va percuter votre boîte crânienne alors que le sang coule à flots de votre nez et de vos oreilles. Gagnez les États suivants : 1 Assourdi, 2 Hémorragique et <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> Assommé. Gagnez également l'État Exténué qui va durer <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> jours. Si vous recevez une autre Blessure critique alors que vous êtes Exténué, réussissez un Test de Résistance Accessible (+20) ou gagnez l'État Inconscient.",
+    "range": [76, 80]
+  }, {
+    "name": "Bouche explosée",
+    "wounds": "4",
+    "description": "Votre bouche se remplit de sang et de dents cassées avec un bruit répugnant. Gagnez 2 États Hémorragique. Perdez <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> dents - Amputation (Facile).",
+    "range": [81, 85]
+  }, {
+    "name": "Oreille mutilée",
+    "wounds": "4",
+    "description": "Il ne reste plus grand-chose de votre oreille alors que le coup la déchiquette. Gagnez 3 États Assourdi et 2 États Hémorragique. Vous perdez votre oreille - Amputation (Accessible)",
+    "range": [86, 90]
+  }, {
+    "name": "OEil crevé",
+    "wounds": "5",
+    "description": "Le coup porté à votre oeil le crève, ce qui provoque une douleur quasi insoutenable. Gagnez les États suivants : 3 Aveuglé, 2 Hémorragique et 1 Assommé. Perdez votre oeil - Amputation (Complexe).",
+    "range": [91, 93]
+  }, {
+    "name": "Coup défigurant",
+    "wounds": "5",
+    "description": "Le coup vous explose le visage, crevant un oeil et vous brisant le nez. Gagnez les États suivants : 3 Hémorragique, 3 Aveuglé et 2 Assommé. Perdez votre oeil et votre nez - Amputation (Difficile).",
+    "range": [94, 96]
+  }, {
+    "name": "Mâchoire mutilée",
+    "wounds": "5",
+    "description": "Le coup vous arrache presque complètement la mâchoire, détruit votre langue et envoie vos dents à plusieurs mètres dans une pluie de sang. Gagnez 4 États Hémorragique et 3 États Assommé. Réussissez un Test de Résistance Très Difficile (-30) ou gagnez l'État Inconscient. Subissez le traumatisme Fracture (Majeure), perdez votre langue et <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> dents -Amputation (Difficile).",
+    "range": [97, 99]
+  }, {
+    "name": "Décapitation",
+    "wounds": "Mort",
+    "description": "Votre tête est tranchée au niveau de votre cou et part dans les airs, atterrissant à <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d3</a> mètres de votre corps dans une direction aléatoire (voir Dispersion). Votre corps s'effondre, mort sur le coup.",
+    "range": [100, 100]
+  }]
+}

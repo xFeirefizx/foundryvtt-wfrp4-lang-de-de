@@ -1,0 +1,108 @@
+{
+  "die": "1d100",
+  "name": "Signe astral",
+  "rows": [
+    {
+      "name": "Wymund l'Anachorète",
+      "description": "Signe de l'Endurance",
+      "range": [1,5]
+    },
+    {
+      "name": "La Grande Croix",
+      "description": "Signe de Clairvoyance",
+      "range": [6,10]
+    },    
+    {
+      "name": "Le Trait du Peintre",
+      "description": "Signe de Précision et de Perfection",
+      "range": [11,15]
+    },
+    {
+      "name": "Gnuthus le Buffle",
+      "description": "Signe du Dévouement et de la Loyauté",
+      "range": [16,25]
+    },
+    {
+      "name": "Dragomas le Dragon",
+      "description": "Signe de Bravoure",
+      "range": [26,30]
+    },
+    {
+      "name": " Le Crépuscule",
+      "description": "Signe d’Illusion et de Mystère",
+      "range": [31,35]
+    },
+    {
+      "name": "Le Fourreau de Grungni",
+      "description": "Signe des Armes et de la Guerre",
+      "range": [36,40]
+    },
+    {
+      "name": "Mammit le Sage",
+      "description": "Signe de Sagesse",
+      "range": [41,45]
+    },
+    {
+      "name": "Mummit le Fou",
+      "description": "Signe d'Intuition",
+      "range": [46,50]
+    },
+    {
+      "name": "Les Deux Boeufs",
+      "description": "Signe de la Terre et de la Belle Ouvrage",
+      "range": [51,55]
+    },
+    {
+      "name": "Le Danseur",
+      "description": "Signe de Séduction et d’Amour",
+      "range": [56,60]
+    },
+    {
+      "name": "Le Tambour",
+      "description": "Signe du Plaisir et des Excès",
+      "range": [61,65]
+    },
+    {
+      "name": "Le Flûtiste",
+      "description": "Signe du Roublard",
+      "range": [66,70]
+    },
+    {
+      "name": "Vobist le Pâle",
+      "description": "Signe de Doute et d'Incertitude",
+      "range": [71,75]
+    },
+    {
+      "name": "La Charrette Brisée",
+      "description": "Signe de Talent et d'Apprentissage",
+      "range": [76,80]
+    },
+    {
+      "name": "La Chèvre Sauvage",
+      "description": "Signe de Passions Interdites",
+      "range": [81,85]
+    },
+    {
+      "name": "Le Chaudron de Rhya",
+      "description": "Signe de Miséricorde, Mort et Création",
+      "range": [86,90]
+    },
+    {
+      "name": "Cackelfax le Coq",
+      "description": "Signe de Richesse et de Négoce",
+      "range": [91,95]
+    },
+    {
+      "name": "Le Grimoire",
+      "description": "Signe de Compétence et d'Étude",
+      "range": [96,98]
+    },
+    {
+      "name": "L'Étoile du Sorcier",
+      "description": "Signe de Magie",
+      "range": [96,98]
+    }
+  ]
+}
+ 
+ 

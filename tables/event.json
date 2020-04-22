@@ -1,0 +1,129 @@
+{
+  "name": "Events Table",
+  "die": "1d100",
+  "rows": [{
+    "name": "Allié inculpé",
+    "description": "L'un de vos alliés (au choix du MJ) est impliqué dans un horrible crime. Un personnage avec une Licence de la Guilde de Droit peut dépenser une Activité pour libérer l'allié en réussissant un <b>Test de Savoir (Loi) Accessible (+20)</b>. A défaut, trois Activités dépensées par le groupe le disculperont (ou, s'il est coupable, lui fourniront un alibi). Si l'allié est libéré, gagnez une Faveur Majeure (voir l'Activité <i>Faites-moi une Faveur</i> page 198) pour une utilisation future. Dans le cas contraire, l'allié sera pendu!",
+    "range": [1, 3]
+  }, {
+    "name": "Enchères ésotériques",
+    "description": "Les biens d'un voisin récemment décédé sont mis aux enchères, notamment un vieux livre poussiéreux d'origine inconnue. Si vous êtes capable de payer le prix demandé de 10 CO, le livre est à vous ! Au-delà de tout autre avantage que le livre peut vous apporter, décidé par le MJ, les Personnages Lettrés qui tentent une Activité <i>Recherche de Savoir</i> gagnent +20 à leur Test.",
+    "range": [4, 6]
+  }, {
+    "name": "Trahison!",
+    "description": "Un ami, un parent ou un allié se retourne contre vous, et les répercussions auront une influence sur votre prochaine aventure. Si vous n'avez pas d'amis, de famille ou d'alliés, votre temps libre est alors merveilleusement calme, bien qu'un peu ennuyeux.",
+    "range": [7, 10]
+  }, {
+    "name": "Imprévu",
+    "description": "Un palefrenier paresseux n'a pas fermé la porte de l'écurie, et votre monture s'est enfuie ! Si vous réussissez un <b>Test de Dressage (Cheval) Accessible (+20)</b>, votre animal bien entraîné revient vers la main qui le nourrit. Si vous échouez, votre destrier est parti, et il est peu probable de le revoir un jour. Si vous n'avez pas de monture, vous souffrez d'une ampoule douloureuse à l'un de vos pieds.",
+    "range": [11, 14]
+  }, {
+    "name": "Eh! Tu as renversé ma pinte!",
+    "description": "Un petit différent dans les environs a tourné au conflit - le MJ décide qui vous avez offensé et comment. Cette personne ne laissera pas passer une occasion de se venger.",
+    "range": [15, 18]
+  }, {
+    "name": "Répression du Crime",
+    "description": "La Garde veut une augmentation de salaire ! Tous les 'coups' sont en suspens jusqu'à ce que la tension redescende. Les Voleurs ne peuvent obtenir aucune liquidité avec l'Activité <i>Revenus</i>, et si les Voleurs entreprennent l'Activité <i>Opérations Bancaires</i>, ils ne peuvent choisir qu'un dépôt à <i>Haut Risque</i>, puisque les banques officielles ne voudront pas gérer de l'argent sale.",
+    "range": [19, 21]
+  }, {
+    "name": "Le Prévôt arrive",
+    "description": "Le collecteur d'impôts (avec plusieurs soldats pour escorte) sillonne votre communauté locale lors d'une visite inattendue. Tous les Personnages perdent 30% de leur argent avant de pouvoir en dépenser dans les Activités.",
+    "range": [22, 25]
+  }, {
+    "name": "Fausse Monnaie",
+    "description": "Au grand dam des marchands, un trafic de pièces contrefaites sévit dans la région où habitent les Personnages. Un cinquième de toutes les pièces est concerné. Les Personnages qui entreprennent l'Activité <i>Opérations Bancaires</i> perdront 20% de l'argent placé, et ceux entreprenant l'Activité <i>Revenus</i> réduiront de la même manière l'argent gagné de 20%.",
+    "range": [26, 29]
+  }, {
+    "name": "Profits abondants",
+    "description": "Les affaires sont particulièrement bonnes pour les gens impliqués dans le commerce fluvial. Les Riverains gagnent 50% de plus pour toute Activité <i>Revenus</i> effectuée lors de la prochaine série d'Activités.",
+    "range": [30, 33]
+  }, {
+    "name": "Un homme averti en vaut deux",
+    "description": "Vous avez reçu un présage cryptique en rêve, d'un mystique strigany ou d'un Magister céleste rencontré dans la rue. Lors de votre prochaine aventure, votre montant maximum de Points de Chance augmente de 1.",
+    "range": [34, 36]
+  }, {
+    "name": "Festivités",
+    "description": "Une fête est annoncée ! Décidez de la nature de l'événement avec le MJ. Il peut s'agir d'un mariage local, d'une récolte généreuse ou d'une exécution publique ! Vous êtes entraîné dans l'événement (et ses conséquences) et perdez une Activité.",
+    "range": [37, 40]
+  }, {
+    "name": "Météo défavorable",
+    "description": "Des conditions météorologiques particulièrement détestables sont annoncées. Pour la prochaine aventure, tous les Tests de Compétences sociales subissent une pénalité de -10 (tout le monde est de mauvaise humeur) et le prix des aliments augmente de 20% (en raison de la dégradation des denrées entreposées).",
+    "range": [41, 44]
+  }, {
+    "name": "Météo radieuse",
+    "description": "Les magnifiques conditions météorologiques vous inspirent et vous réjouissent. Vous pouvez ajouter une nouvelle Ambition à Court terme. Une fois achevée, vous ne la remplacez pas par une nouvelle.",
+    "range": [45, 48]
+  }, {
+    "name": "Mauvaise récolte",
+    "description": "La nourriture devient extrêmement rare et beaucoup de gens en souffrent terriblement. Les Personnages Ruraux ne peuvent pas entreprendre l'Activité <i>Revenus</i>, et le prix des aliments est doublé dans la région pour la durée de la prochaine aventure.",
+    "range": [49, 52]
+  }, {
+    "name": "Maladie pernicieuse",
+    "description": "Le Flux Sanglant sévit en ville. Faites un <b>Test d'Endurance Facile (+40)</b>. Sur un succès, la maladie vous épargne. Sur un échec, vous allez passer pas mal de temps avec la Guilde des Purificateurs. Contractez le Flux Sanglant (voir page 187).",
+    "range": [53, 56]
+  }, {
+    "name": "Complications monstrueuses",
+    "description": "Un monstre (choisi par le MJ dans le <b>Chapitre 12 : Bestiaire</b> page 310) sème la panique dans la région. L'Activité <i>Revenus</i> ne founit aucun fonds jusqu'à ce que le problème de la bête soit réglé. Les Personnages peuvent décider chacun de sacrifier une Activité pour régler la menace (et cette rencontre doit être interprétée en jeu). S'ils réussissent, ils gagnent une Activité <i>Revenus</i> gratuite pour représenter leurs récompenses individuelles, et une fête est donnée en leur honneur S'ils échouent, ou si le groupe préfère ignorer la créature, elle s'en ira ou sera tuée par un rival local.",
+    "range": [57, 60]
+  }, {
+    "name": "L'Etreinte de Morr",
+    "description": "L'un des parents, amis ou alliés du Personnage meurt. Il pourrait s'agir de causes naturelles, d'un accident ou du début de quelque chose de plus sinistre...",
+    "range": [61, 63]
+  }, {
+    "name": "Nouvelle lune",
+    "description": "Les nuits sont particulièrement noires. Les Personnages Voleurs qui entreprennent l'Activité <i>Revenus</i> reçoivent un bonus de +20% sur les sommes gagnées.",
+    "range": [64, 65]
+  }, {
+    "name": "Vieilles dettes",
+    "description": "Vous avez fait appel à une <i>Faveur Importante</i> ou <i>Majeure</i>. Les tenants et aboutissants de la faveur feront partie de vore prochaine Aventure et vous perdez une Activité en préparation de ce qui va se produire.",
+    "range": [66, 67]
+  }, {
+    "name": "Opportunité de passage",
+    "description": "Des soldats de passage, de riches marchands ou des nobles en villégiature traversent la région, et des Personnages prêts à leur lécher les bottes en récupèrent les bénéfices. Les Personnages Citadins et Ruraux gagnent +50% d'argent avec l'Activité <i>Revenus</i>.",
+    "range": [68, 69]
+  }, {
+    "name": "Paix et sérénité",
+    "description": "Le genre de moments qui vous rappelle ce qu'est la vie : un sommeil paisible après un bon fromage. Vous serez en pleine forme au début de vore prochaine aventure.",
+    "range": [70, 71]
+  }, {
+    "name": "Colporteur",
+    "description": "Un colporteur ratatiné ayant beaucoup voyage et friand de ragots arrive. Pour le prix d'un pichet de bière - 3 SC - vous recevez un bonus de +10 pour toutes les Activités <i>Dernières nouvelles</i> que vous tentez.",
+    "range": [72, 73]
+  }, {
+    "name": "Animal domestique malade",
+    "description": "L'un de vos animaux tombe malade. Faites un <b>Test de Soin aux animaux Intermédiaire (+0)</b>. Sur un succès, votre animal s'en sort. Sinon, la malheureuse créature meurt. Si vous n'avez pas d'animal, vous êtes tourmenté par le mauvais présage d'un nuage menaçant.",
+    "range": [74, 76]
+  }, {
+    "name": "Mise à sac",
+    "description": "Avant que vous ne puissiez entreprendre une Activité <i>Opérations bancaires</i>, votre planque est dévalisée et tout votre argent a disparu. Si vos économies s'élèvent à moins d'1 CO, les voleurs ont aussi pris votre équipement le plus précieux.",
+    "range": [77, 79]
+  }, {
+    "name": "Emeutes",
+    "description": "Les gens du peuple sont furieux contre les grands et les puissants. Les Personnages Courtisans ne peuvent entreprendre l'Activité <i>Revenus</i>, car quel que soit le nombre de gardes du corps qu'ils emploient, il est risqué pour eux de sortir de chez eux pour s'occuper de leurs affaires. De plus, tous les dépôts des banques réputées (voir l'Activité <i>Opérations bancaires</i> ci-dessous) doivent vérifier immédiatement si la violence et le désordre ont causé la faillite de leur banque. Cependant, les Personnages qui tentent une Activité <i>Semer la dissension</i> reçoivent un bonus de +10 à tous les Tests associés.",
+    "range": [80, 82]
+  }, {
+    "name": "Kleptomane",
+    "description": "Votre sacoche est entaillée  Vous perdez la moitié de l'argent avec lequel vous avez terminé votre dernière aventure.",
+    "range": [83, 85]
+  }, {
+    "name": "Soupçonné d'hérésie",
+    "description": "Vous tombez sur un Répurgateur qui vous soupçonne d'avoir comploté avec des mutants, des cultistes ou pis encore, durant vos soi-disant 'aventures'. Il faut un <b>Test de Charme Très Difficile (-30)</b> pour le convaincre de votre innocence. Sinon, cela signifie que vous avez gagné une némésis qui vous causera, c'est sûr, des soucis dans le futur...",
+    "range": [86, 88]
+  }, {
+    "name": "Suspect",
+    "description": "Les déplacements irréguliers et la soudaine richesse du groupe ont attiré les soupçons. Tous les Personnages doivent renoncer à une Activité pour faire profil bas ou prouver leur innocence. Les Personnages Roublards ne peuvent pas utiliser l'Activité <i>Revenus</i> jusqu'à leur prochaine aventure.",
+    "range": [89, 91]
+  }, {
+    "name": "Rien à signaler",
+    "description": "Peu de choses se passent, vous commencez la prochaine aventure avec un appêtit pour le risque inspiré par l'ennui.",
+    "range": [92, 94]
+  }, {
+    "name": "Considération inattendue",
+    "description": "Quelqu'un que vous avez aidé par le passé a l'opportunité de vous rendre la pareille. La nature précise du dédommagement devrait être à l'aune de vos actes passés et de la part des PNJ que vous avez soutenus auparavant pendant le jeu. Les marques de reconnaissance peuvent varier d'un simple objet de grande qualité à une bourse d'argent (disponible au début de la prochaine aventure). Evidemment, tout ce qui brille n'est pas or, et tous les cadeaux ne sont pas ce qu'ils semblent être...",
+    "range": [95, 97]
+  }, {
+    "name": "Mercenaires particuliers",
+    "description": "Un ou plusieurs mercenaires peu communs se présentent dans un village voisin à la recherche de travail : un Duelliste tiléen de grande renommée, les soi-disant Hommes Oiseaux de Catrazza, des ogres sans emploi sous le commandement d'un capitaine Halfling, ou autres groupes douteux. Les mercenaires entraîneront volontiers n'importe quel Personnage dans n'importe quelle Compétence ou n'importe quel Talent martial, avec une réduction de 20% des coûts, si les Personnages entreprennent une Activité <i>Entraînement</i> ou <i>Apprentissage particulier</i>. De plus, les Personnages entreprenant une Activité <i>Entraînement au Combat</i> gagnent un bonus de +20% à tout Test adapté.",
+    "range": [98, 100]
+  }]
+}
