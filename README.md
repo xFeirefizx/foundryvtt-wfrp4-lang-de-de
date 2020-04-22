@@ -9,14 +9,14 @@ It aims to translate all text, including :
 
 ## Installation
 
-Für die Installation des Übersetzungsmoduls sind folgende Schritte und weitere Module notwendig:
+For the installation of the translation module the following steps and further modules are necessary:
 
-1.  Installiere das Modul 'babele': https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json
-2.  Installiere das deutsche Übersetzungsmodul: https://raw.githubusercontent.com/ivan-hr/foundryvtt-wfrp4-lang-de-de/master/module.json
+1.  Install the 'babele' module: https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json
+2.  Install the German translation module: : https://raw.githubusercontent.com/ivan-hr/foundryvtt-wfrp4-lang-de-de/master/module.json
 
 ## Usage Instructions
 
-Stelle in den Systemeinstellungen die Sprache auf "Deutsch" ein.
+Set the language to "Deutsch" in the system settings.
 
 ## Compatibility
 
