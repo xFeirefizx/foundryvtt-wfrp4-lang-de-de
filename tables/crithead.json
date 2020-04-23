@@ -1,105 +1,105 @@
 {
-  "name": "Head Critical Wounds",
+  "name": "Kritische Kopfverletzungen",
   "die": "1d100",
   "rows": [{
-    "name": "Dramatic Injury",
+    "name": "Schmiss",
     "wounds": "1",
-    "description": "A fine wound across the forehead and cheek. Gain 1 Bleeding Condition. Once the wound is healed, the impressive scar it leaves provides a bonus of +1 SL to appropriate social Tests. You can only gain this benefit once.",
+    "description": "Eine schmale Wunde über Stirn und Wange. Du erhältst 1 Blutend-Zustand. Sobald dieVerletzung geheilt ist, bleibt ein beeindruckender Schmiss zurück, der einen Bonus von +1EG bei passenden sozialen Würfen bringt. Du kannst diesen bleibenden Bonus nur eineinziges Mal erhalten.",
     "range": [1, 10]
   }, {
-    "name": "Minor Head Cut",
+    "name": "Kleiner Schnitt",
     "wounds": "1",
-    "description": "The strike opens your cheek and blood flies everywhere. Gain 1 Bleeding Condition.",
+    "description": "Der Treffer öffnet deine Wange und lässt überall Blut umherspritzen. Du erhältst 1 Blutend-Zustand.",
     "range": [11, 20]
   }, {
-    "name": "Poked Eye",
+    "name": "Angeschl. Auge",
     "wounds": "1",
-    "description": "The blow glances across your eye socket. Gain 1 Blinded condition.",
+    "description": "Treffer streift deine Augenhöhle. Du erhältst 1 Geblendet-Zustand.",
     "range": [21, 25]
   }, {
-    "name": "Ear Bash",
+    "name": "Schlag aufs Ohr",
     "wounds": "1",
-    "description": "Your ear takes a sickening impact, leaving it ringing. Gain 1 Deafened Condition.",
+    "description": "Dein Ohr kassiert einen flachen Treffer und klingelt nun. Du erhältst 1 Ertaubt-Zustand.",
     "range": [26, 30]
   }, {
-    "name": "Rattling Blow",
+    "name": "Krachender Treffer",
     "wounds": "2",
-    "description": "The blow floods your vision with spots and flashing lights. Gain 1 Stunned Condition.",
+    "description": "Der Treffer lässt Sterne und Lichter vor deinen Augen tanzen. Du erhältst 1 Betäubt-Zustand.",
     "range": [31, 35]
   }, {
-    "name": "Black Eye",
+    "name": "Blaues Auge",
     "wounds": "2",
-    "description": "A solid blow hits your eye, leaving tears and much pain. Gain 2 Blinded Conditions.",
+    "description": "Ein übler Treffer trifft dein Auge und hinterlässt Tränen und Schmerzen. Du erhältst 2Geblendet-Zustände.",
     "range": [36, 40]
   }, {
-    "name": "Sliced Ear",
+    "name": "Zerschnittenes Ohr",
     "wounds": "2",
-    "description": "Your side of your head takes a hard blow, cutting deep into your ear. Gain 2 Deafened and 1 Bleeding Condition.",
+    "description": "Die Seite deines Kopfes kassiert einen bösen Treffer, der dir das Ohr zerschneidet. Duerhältst 2 Ertaubt-Zustände und 1 Blutend-Zustand.",
     "range": [41, 45]
   }, {
-    "name": "Struck Forehead",
+    "name": "Stirntreffer",
     "wounds": "2",
-    "description": "A solid blow thumps into the centre of your forehead. Gain 2 Bleeding Conditions and a Blinded Condition that cannot be removed until all Bleeding Conditions are removed.",
+    "description": "Dich trifft ein harter Schlag mitten auf die Stirn. Du erhältst 2 Blutend-Zustände und 1Geblendet-Zustand, wobei der Geblendet-Zustand nicht beseitigt werden kann, ehe nicht alle Blutend-Zustände beseitigt wurden.",
     "range": [46, 50]
   }, {
-    "name": "Fractured Jaw",
+    "name": "Angebrochener Kiefer",
     "wounds": "3",
-    "description": "With a sickening crunch, pain fills your face as the blow fractures your jaw. Gain 2 Stunned Conditions. Suffer a Broken Bone (Minor) injury.",
+    "description": "Ein furchtbares Knacken erklingt und Schmerz schießt durch dein Gesicht, als der Trefferdeinen Kiefer bricht. Du erhältst 2 Betäubt-Zustände und erleidest die Verletzung Knochenbruch (leicht).",
     "range": [51, 55]
   }, {
-    "name": "Major Eye Wound",
+    "name": "Schwere Augenverletzung",
     "wounds": "3",
-    "description": "The blow cracks across your eye socket. Gain 1 Bleeding Condition. Also gain 1 Blinded Condition that cannot be removed until you receive Medical Attention.",
+    "description": "Der Treffer reißt dir die Augenbraue auf. Du erhältst 1 Blutend-Zustand und 1 Geblendet-Zustand, wobei der Geblendet-Zustand nicht ohne medizinische Versorgung beseitigtwerden kann.",
     "range": [56, 60]
   }, {
-    "name": "Major Ear Wound",
+    "name": "Schwere Ohrenverletzung",
     "wounds": "3",
-    "description": "The blow damages your ear, leaving you with permanent hearing loss in one ear. Suffer a -20 penalty on all Tests relating to hearing. If you suffer this result again, your hearing is permanently lost as the second ear falls quiet. Only magic can heal this.",
+    "description": "Der Treffer verletzt dein Ohr und lässt dich mit einem permanenten Gehörverlust diesesOhres zurück. Du erhältst einen Abzug von -20 auf alle Würfe, die mit dem Hören zu tunhaben. Wenn du diesen Treffer ein zweites Mal erhältst, ist dein Gehörverlust vollständig,da auch das zweite Ohr zerstört wird. Nur Magie kann dies heilen.",
     "range": [61, 65]
   }, {
-    "name": "Broken Nose",
+    "name": "Gebrochene Nase",
     "wounds": "3",
-    "description": "A solid blow to the centre of your face causing blood to pour. Gain 2 Bleeding Conditions. Make a Challenging (+0) Endurance Test, or also gain a Stunned Condition. After this wound has healed, gain +1/-1 SL on social rolls, depending on context, unless Surgery is used to reset the nose.",
+    "description": "Ein satter Treffer trifft dich mitten ins Gesicht und lässt Blut daraus hervorschießen. Duerhältst 2 Blutend-Zustände. Du musst einen herausfordernden (+0) Ausdauer-Wurfbestehen, oder du erhältst zusätzlich den Zustand Betäubt. Nach dem Verheilen erhältst du+/-1 EG bei passenden sozialen Würfen, abhängig vom Kontext, bis Chirurgie angewandtwurde, um die Nase zu richten.",
     "range": [66, 70]
   }, {
-    "name": "Broken Jaw",
+    "name": "Gebrochener Kiefer",
     "wounds": "4",
-    "description": "The crack is sickening as the blow hits you under the chin, breaking your jaw. Gain 3 Stunned Conditions. Make a Challenging (+0) Endurance Test or gain an Unconscious Condition. Suffer a Broken Bone (Major) injury.",
+    "description": "Das Knacken verdreht einem den Magen, als ein Treffer dein Kinn trifft und es bricht.Du erhältst 3 Betäubt-Zustände. Du musst einen herausfordernden (+0) Ausdauer-Wurfbestehen, oder du erhältst zusätzlich den Zustand Bewusstlos. Du erleidest die Verletzung Knochenbruch (schwer).",
     "range": [71, 75]
   }, {
-    "name": "Concussive Blow",
+    "name": "Gehirnerschütterung",
     "wounds": "4",
-    "description": "Your brain rattles in your skull as blood spurts from your nose and ears. Take 1 Deafened , 2 Bleeding , and <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> Stunned Conditions. Gain a Fatigued Condition that lasts for <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> days. If you receive another Critical Wound to your head while suffering this Fatigued Condition, make an Average (+20) Endurance Test or also gain an Unconscious Condition.",
+    "description": "Dein Gehirn wird im Kopf umhergeworfen und Blut spritzt dir aus Nase und Ohren. Duerhältst 1 Ertaubt-Zustand, 2 Blutend-Zustände und 1W10 Betäubt-Zustände. Du erhältstzudem den Zustand Erschöpft, der 1W10 Tage anhält. Wenn du eine weitere KritischeVerletzung am Kopf erleidest, während der Erschöpft-Zustand anhält, muss dir ein durchschnittlicher (+20) Ausdauer-Wurf gelingen, oder du erhältst zudem einen Bewusstlos-Zustand.",
     "range": [76, 80]
   }, {
-    "name": "Smashed Mouth",
+    "name": "Eingeschlagener Mund",
     "wounds": "4",
-    "description": "With a sickening crunch, your mouth is suddenly filled with broken teeth and blood. Gain 2 Bleeding Conditions. Lose <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> teeth — Amputation (Easy).",
+    "description": "Ein grausames Knirschen ertönt und plötzlich ist dein Mund mit Blut und ausgeschlagenenZähnen gefüllt. Du erhältst 2 Blutend-Zustände und verlierst 1W10 Zähne – Amputation (einfach).",
     "range": [81, 85]
   }, {
-    "name": "Mangled Ear",
+    "name": "Zerschmettertes Ohr",
     "wounds": "4",
-    "description": "Little is left of your ear as the blow tears it apart. You gain 3 Deafened and 2 Bleeding Conditions. Lose your ear — Amputation (Average).",
+    "description": "Von deinem Ohr bleibt wenig übrig, nachdem der Treffer es zerfetzt hat. Du erhältst2 Ertaubt-Zustände und 1 Blutend-Zustand, und du verlierst dein Ohr – Amputation (durchschnittlich).",
     "range": [86, 90]
   }, {
-    "name": "Devastated Eye",
+    "name": "Zerstörtes Auge",
     "wounds": "5",
-    "description": "A strike to your eye completely bursts it, causing extraordinary pain. Gain 3 Blinded , 2 Bleeding , and 1 Stunned Condition. Lose your eye — Amputation (Difficult).",
+    "description": "Der Treffer zerschmettert dein Auge vollständig und verursacht rasende Schmerzen. Duerhältst 3 Blutend-, 2 Geblendet-Zustände und 1 Betäubt-Zustand, und du verlierst dein Auge – Amputation (schwierig).",
     "range": [91, 93]
   }, {
-    "name": "Disfiguring Blow",
+    "name": "Entstellender Treffer",
     "wounds": "5",
-    "description": "The blow smashes your entire face, destroying your eye and nose in a cloud of blood. Gain 3 Bleeding , 3 Blinded and 2 Stunned Conditions. Lose your eye and nose — Amputation (Hard).",
+    "description": "Der Schlag zerschmettert dein Gesicht und zerstört in einem Regen von Blut ein Augeund deine Nase. Du erhältst 3 Blutend-, 3 Geblendet- und 2 Betäubt-Zustände, und du verlierst ein Auge und die Nase – Amputation (schwer).",
     "range": [94, 96]
   }, {
-    "name": "Mangled Jaw",
+    "name": "Zerschmetterter Kiefer",
     "wounds": "5",
-    "description": "The blow almost removes your jaw as it utterly destroys your tongue, sending teeth flying in a shower of blood. Gain 4 Bleeding and 3 Stunned Conditions. Make a Very Hard (-30) Endurance Test or gain an Unconscious Condition. Suffer a Broken Bone (Major) injury and lose your tongue and <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> teeth — Amputation (Hard).",
+    "description": "Der Treffer reißt dir beinahe den ganzen Kiefer ab, zerfetzt deine Zunge und lässt einenRegen aus Blut und Zähnen fliegen. Du erhältst 4 Blutend- und 3 Betäubt-Zustände. Dumusst einen sehr schweren (-30) Ausdauer-Wurf bestehen, oder du erhältst zusätzlich denZustand Bewusstlos. Du erleidest die Verletzung Knochenbruch (schwer) und verlierst dieZunge und 1W10 Zähne – Amputation (schwer).",
     "range": [97, 99]
   }, {
-    "name": "Decapitated",
+    "name": "Geköpft",
     "wounds": "Death",
-    "description": "Your head is entirely severed from your neck and soars through the air, landing <a class = 'chat-roll'><i class='fas fa-dice'></i> 1d10</a> feet away in a random direction (see Scatter). Your body collapses, instantly dead.",
+    "description": "Dein Kopf wird vollständig vom Hals getrennt und fliegt durch die Luft, um 1W10 Fuß (je circa 30 cm) weit in Zufallsrichtung zu landen (siehe Abweichung). Dein Körper bricht sofort leblos zusammen.",
     "range": [100, 100]
   }]
 }
