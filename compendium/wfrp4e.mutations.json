@@ -10,198 +10,198 @@
 	"entries": [
 		{
 			"id": "Animalistic Legs",
-			"name": "Membres d'animaux",
-			"description": ""
+			"name": "Tierbeine",
+			"description": "+1 Bewegung"
 		},
 		{
 			"id": "Awful Cravings",
-			"name": "Atroces Désirs",
-			"description": ""
+			"name": "Grässliche Gelüstes",
+			"description": "–5 Charisma, –5 Willenskraft"
 		},
 		{
 			"id": "Beast Within'",
-			"name": "Bête intérieure",
-			"description": ""
+			"name": "Inneres Tier",
+			"description": "+10 Willenskraft, –5 Charisma, –5 Intelligenz"
 		},
 		{
 			"id": "Chaotic Dreams",
-			"name": "Rêves chaotiques",
-			"description": ""
+			"name": "Chaotische Träume",
+			"description": "Du erhältst für die ersten beiden Stunden jeden Tages den Zustand Erschöpft."
 		},
 		{
 			"id": "Corpulent",
-			"name": "Corpulent",
-			"description": ""
+			"name": "Korpulent",
+			"description": "-1 Bewegung, +5 Stärke, +5 Widerstand"
 		},
 		{
 			"id": "Crawling Skin",
-			"name": "Fornication",
-			"description": ""
+			"name": "Krabbelnde Haut",
+			"description": "–5 Initiative, –5 Geschicklichkeit"
 		},
 		{
 			"id": "Distended Digits",
-			"name": "Doigts distendus",
-			"description": ""
+			"name": "Verlängerte Finger",
+			"description": "+10 Geschicklichkeit"
 		},
 		{
 			"id": "Emaciated",
-			"name": "Emacié",
-			"description": ""
+			"name": "Ausgezehrt",
+			"description": "-10 Stärke, +5 Gewandtheit"
 		},
 		{
 			"id": "Enormous Eye",
-			"name": "Oeil énorme",
-			"description": ""
+			"name": "Enormes Auge",
+			"description": "+10 bei Wahrnehmungs-Würfen, bei denen es um die Sicht geht"
 		},
 		{
 			"id": "Erratic Fantasist",
-			"name": "Imprévisible fantaisiste",
-			"description": ""
+			"name": "Erratischer Phantast",
+			"description": "–5 Initiative, –5 Willenskraft"
 		},
 		{
 			"id": "Extra Leg Joints",
-			"name": "Articulation supp. aux Jambes",
-			"description": ""
+			"name": "Zusätzliche Kniegelenke",
+			"description": "+5 Gewandtheit"
 		},
 		{
 			"id": "Extra Mouth",
-			"name": "Bouche supplémentaire",
-			"description": ""
+			"name": "Zusätzlicher Mund",
+			"description": "Würfle die Stelle auf der Trefferzonen-Tabelle aus"
 		},
 		{
 			"id": "Fearful Concern",
-			"name": "Terrible inquiétude",
-			"description": ""
+			"name": "Ängstliche Bedenken",
+			"description": "–10 Willenskraft"
 		},
 		{
 			"id": "Fleshy Tentacle",
-			"name": "Tentacule épaisse",
-			"description": ""
+			"name": "Fleischige Tentakel",
+			"description": "Du erhältst die Kreaturen-Eigenschaft Tentakel (siehe Seite 343)."
 		},
 		{
 			"id": "Glowing Skin",
-			"name": "Groin poilu",
-			"description": ""
+			"name": "Glühende Haut",
+			"description": "So hell wie das Licht einer Kerze"
 		},
 		{
 			"id": "Hateful Impulses",
-			"name": "Pulsions de haine",
-			"description": ""
+			"name": "Hasserfüllte Impulse",
+			"description": "Du unterliegst Feindseligkeit (siehe Psychologie) gegenüber allen, die nicht zu deinem Volk gehören."
 		},
 		{
 			"id": "Hollow Heart",
-			"name": "Coeur desseché",
-			"description": ""
+			"name": "Leeres Herz",
+			"description": "+10 Willenskraft, –10 Charisma"
 		},
 		{
 			"id": "Inhuman Beauty",
-			"name": "Beauté surnaturelle",
-			"description": ""
+			"name": "Unmenschliche Schönheit",
+			"description": "+10 Charisma; du bildest keine Narben"
 		},
 		{
 			"id": "Inverted Face",
-			"name": "Visage inversé",
-			"description": ""
+			"name": "Invertiertes Gesicht",
+			"description": "–20 Charisma"
 		},
 		{
 			"id": "Iron Skin",
-			"name": "Peau d'acier",
-			"description": ""
+			"name": "Eisenhaut",
+			"description": "+2 Rüstungspunkte an allen Trefferzonen, –10 Gewandtheit"
 		},
 		{
 			"id": "Jealous Thoughts",
-			"name": "Pensées envieuses",
-			"description": ""
+			"name": "Neidvolle Gedanken",
+			"description": "–10 Charisma"
 		},
 		{
 			"id": "Lolling Tongue",
-			"name": "Langue pendante",
-			"description": ""
+			"name": "Züngelnde Zunge",
+			"description": "–10 auf alle Sprache-Würfe beim Sprechen"
 		},
 		{
 			"id": "Lonely Spirit",
-			"name": "Esprit solitaire",
-			"description": ""
+			"name": "Einsame Seele",
+			"description": "–10 auf jeden Wurf, wenn du allein bist"
 		},
 		{
 			"id": "Mental Blocks",
-			"name": "Blocage mental",
-			"description": ""
+			"name": "Mentale Blockade",
+			"description": "–10 Intelligenz"
 		},
 		{
 			"id": "Patchy Feathers",
-			"name": "Plumes éparses",
-			"description": ""
+			"name": "Flecken mit Federn",
+			"description": "Würfle zwei Stellen auf der Trefferzonen-Tabelle aus"
 		},
 		{
 			"id": "Profane Urgency",
-			"name": "Urgence profanatoire",
-			"description": ""
+			"name": "Unheilige Unruhe",
+			"description": "–10 Willenskraft, +10 Gewandtheit"
 		},
 		{
 			"id": "Shaky Morale",
-			"name": "Morale douteuse",
-			"description": ""
+			"name": "Wankende Moral",
+			"description": "Du erhältst jedes Mal, wenn dir irgendein Wurf misslingt, der auf deiner Willenskraft beruht, den Zustand Demoralisiert"
 		},
 		{
 			"id": "Short Legs",
-			"name": "Court sur pattes",
-			"description": ""
+			"name": "Kurze Beine",
+			"description": "–1 Bewegung"
 		},
 		{
 			"id": "Suspicious Mind",
-			"name": "Esprit suspicieux",
-			"description": ""
+			"name": "Argwöhnischer Geist",
+			"description": "–5 Initiative, –5 Intelligenz"
 		},
 		{
 			"id": "Thorny Scales",
-			"name": "Ecailles épineuses",
-			"description": ""
+			"name": "Dornige Schuppen",
+			"description": "+1 Rüstungspunkt an allen Trefferzonen"
 		},
 		{
 			"id": "Thrill Hunter",
-			"name": "Accro à l'adrénaline",
-			"description": ""
+			"name": "Süchtig nach Aufregung",
+			"description": "+10 Willenskraft, –10 Initiative"
 		},
 		{
 			"id": "Tortured Visions",
-			"name": "Visions Torturées",
-			"description": ""
+			"name": "Marternde Visionen",
+			"description": "–10 Initiative"
 		},
 		{
 			"id": "Totally Unhinged",
-			"name": "Totalement déséquilibré",
-			"description": ""
+			"name": "Völlig verstört",
+			"description": "–20 Charisma, +10 Willenskraft"
 		},
 		{
 			"id": "Unending Malice",
-			"name": "Infinie malveillance",
-			"description": ""
+			"name": "Unendliche Bosheit",
+			"description": "–10 auf jeden Wurf, anderen keine Schmerzen zuzufügen; +10 auf jeden Wurf, anderen Schmerzen zuzufügen"
 		},
 		{
 			"id": "Uneven Horns",
-			"name": "Cornes asymétriques",
-			"description": ""
+			"name": "Ungleiche Hörner",
+			"description": "+1 Rüstungspunkt am Kopf; gilt als Kreaturen-Waffe, mit einem Schaden in Höhe deines STB (siehe Seite 343)."
 		},
 		{
 			"id": "Unholy Rage",
-			"name": "Colère Impie",
-			"description": ""
+			"name": "Unheiliger Zorn",
+			"description": "Du unterliegst Raserei (siehe Psychologie), +10 Kampfgeschick"
 		},
 		{
 			"id": "Weeping Pus",
-			"name": "Suintement de Pus",
-			"description": ""
+			"name": "Triefender Eiter",
+			"description": "Würfle die Stelle auf der Trefferzonen-Tabelle aus."
 		},
 		{
 			"id": "Whiskered Snout",
-			"name": "Whiskered Snout",
-			"description": ""
+			"name": "Haarige Schnauze",
+			"description": "+10 Spurenlesen"
 		},
 		{
 			"id": "Worried Jitters",
-			"name": "Worried Jitters",
-			"description": ""
+			"name": "Schreckhafte Ängste",
+			"description": "+5 Gewandtheit, –5 Charisma"
 		}
 	]
 }
