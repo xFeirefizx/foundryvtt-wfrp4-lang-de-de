@@ -1,26 +1,26 @@
 {
-  "name": "Oops! Table",
+  "name": "UPS!-TABELLE",
   "die": "1d100",
   "rows": [{
-    "description": "Your manoeuvre was misjudged, leaving you out of position, or you lose grip of a ranged weapon. Next round, your Action suffers a penalty of -10.",
+    "description": "Du triffst einen Teil der eigenen Anatomie (wir empfehlen, dies auf amüsante Weise auszuspielen). Du verlierst 1 LP, wobei WiderstandsBonus und Rüstungspunkte ignoriert werden.",
     "range": [1, 20]
   }, {
-    "description": "You catch a part of your anatomy — lose 1 Wound, ignoring Toughness Bonus or Armour Points.",
+    "description": "Deine Nahkampfwaffe verkantet sich unglücklich oder deine Fernkampfwaffe hat eine Fehlfunktion und irgendetwas bricht ab. Deine Waffe erleidet 1 Punkt Schaden. In der nächsten Runde bist du als Letzter dran, unabhängig von der Initiative-Reihenfolge, Talenten oder Sonderregeln, da du dich erholen musst (siehe Seite 156).",
     "range": [21, 40]
   }, {
-    "description": "Your melee weapon jars badly, or ranged weapon malfunctions or slightly breaks - your weapon suffers 1 Damage. Next round, you will act last regardless of Initiative order, Talents, or special rules as you recover (see page 156).",
+    "description": "Dein Manöver lief ins Leere und bringt dich aus dem Tritt oder du verlierst den Halt an deiner Fernkampfwaffe. In der nächsten Runde hast du bei deiner Handlung einen Abzug von –10.",
     "range": [41, 60]
   }, {
-    "description": "You stumble badly, finding it hard to right yourself. Lose your next Move.",
+    "description": "Du stolperst und brauchst einen Moment, um wieder richtig in Position zu kommen. Du verlierst deine nächste Bewegungsaktion.",
     "range": [61, 70]
   }, {
-    "description": "You mishandle your weapon, or you drop your ammunition. Miss your next Action.",
+    "description": "Du greifst deine Waffe falsch oder verlierst deine Munition. Du verlierst deine nächste Handlung.",
     "range": [71, 80]
   }, {
-    "description": "You overextend yourself or stumble and twist your ankle. Suffer a @Compendium[wfrp4e.injuries.rlXUw5Bgz2xUjVbU]{Torn Muscle (Minor)}. This counts as a Critical Wound.",
+    "description": "Du überstreckst dich oder stolperst und verdrehst deinen Knöchel. Du erleidest eine Muskelriss (leicht)-Verletzung (siehe Seite 179). Dies gilt als Kritische Verletzung.",
     "range": [81, 90]
   }, {
-    "description": "You completely mess up, hitting 1 random ally in range using your rolled units die to determine the SL of the hit. If that's not possible, you somehow hit yourself in the face and gain a @Condition[Stunned] Condition.",
+    "description": "Du verhaust es komplett und triffst einen zufälligen Verbündeten in Reichweite, wobei dein geworfener Würfel für die Einerstelle über die EG des Treffers entscheidet. Wenn das nicht möglich ist, schlägst du dir irgendwie selbst ins Gesicht und erhältst einen Betäubt-Zustand (siehe Seite 167).",
     "range": [91, 100]
   }]
 }
